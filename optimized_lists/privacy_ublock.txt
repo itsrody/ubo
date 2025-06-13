@@ -1,0 +1,974 @@
+! Conversion error: name 'marker' is not defined - Original: ||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js:5
+! Conversion error: name 'marker' is not defined - Original: ||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js:5
+! Conversion error: name 'marker' is not defined - Original: ||googletagmanager.com/gtag/js$script,xhr,redirect=googletagmanager_gtm.js:5
+! Conversion error: name 'marker' is not defined - Original: ||lnkr.us^$doc
+! Conversion error: name 'marker' is not defined - Original: ||icontent.us^$doc
+! Conversion error: name 'marker' is not defined - Original: ||qip.ru^$doc
+! Conversion error: name 'marker' is not defined - Original: ||ratexchange.net^
+! Conversion error: name 'marker' is not defined - Original: ||adnotbad.com^
+! Conversion error: name 'marker' is not defined - Original: ||serverads.net^
+! Conversion error: name 'marker' is not defined - Original: ||tradeadsexchange.com^
+! Conversion error: name 'marker' is not defined - Original: ||googletagservices.com/tag/js/gpt.js$script,xhr,redirect=googletagservices.com/gpt.js:5
+! Conversion error: name 'marker' is not defined - Original: ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
+! Conversion error: name 'marker' is not defined - Original: ||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5
+! Conversion error: name 'marker' is not defined - Original: ||scorecardresearch.com/beacon.js$script,redirect=scorecardresearch.com/beacon.js:5
+! Conversion error: name 'marker' is not defined - Original: ||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js:5
+! Conversion error: name 'marker' is not defined - Original: ||addthis.com/*/addthis_widget.js$script
+##.addthis_toolbox
+! Conversion error: name 'marker' is not defined - Original: ||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js:5
+! Conversion error: name 'marker' is not defined - Original: ||widgets.outbrain.com/outbrain.js$script,redirect=outbrain-widget.js:5,domain=~vice.com
+! Conversion error: name 'marker' is not defined - Original: ||google-analytics.com/analytics.js$important,script,redirect=google-analytics.com/analytics.js,domain=support.amd.com
+! Conversion error: name 'marker' is not defined - Original: ||googletagmanager.com/gtm.js$important,script,redirect=googletagmanager.com/gtm.js,domain=support.amd.com
+rediff.com##a[onclick^="trackURL"]:remove-attr(onclick)
+rediff.com##com"]:remove-attr(onmousedown).rediff.onmousedown^="return enc(this,'https://track[a
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com/api/jail^$xhr,1p
+old.reddit.com|reddit.com##data-outbound-url]:remove-attr(data-outbound-url)[outbound.a
+reddit.com|www.reddit.com##outboundLink).node.][.edges.elements.*.+js(json-prune, data
+reddit.com|www.reddit.com##outbound_link).data.][.children.+js(json-prune, data
+! Conversion error: name 'marker' is not defined - Original: ||redditstatic.com/shreddit/sentry-$domain=reddit.com
+! Conversion error: name 'marker' is not defined - Original: ||www.reddit.com/|$xhr,1p,method=post
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$doc,removeparam=/web_only=/
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$doc,removeparam=/deep_link=/
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$doc,removeparam=correlation_id
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$doc,removeparam=ref
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$doc,removeparam=ref_campaign
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$doc,removeparam=ref_source
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$doc,removeparam=utm_content
+! Conversion error: name 'marker' is not defined - Original: ||click.redditmail.com/CL0/$urlskip=/\/CL0\/(http.*?)\/\d\/[a-f0-9-]+\// -uricomponent
+! Conversion error: name 'marker' is not defined - Original: ||rd.remove.bg/CL0/http$doc,urlskip=/\/CL0\/(http.*?)\/\d\/[a-f0-9-]+\// -uricomponent
+docs.google.com|google.com##+js(no-xhr-if, method:POST url:/logImpressions)
+*.|www.google.*##+js(set, rwt, noopFunc)
+*.|www.google.*##data-sb^="/url?"]:remove-attr(data-sb)[href][main a#
+*.|www.google.*##href^="/url?q=http"], ?q)[main a#+js(href-sanitizer, 
+*.|www.google.*##ping^="/url?"]:remove-attr(ping)[href][main a#
+*.|www.google.*##role="link"], rlhc, 1)[target="_blank"][data-query] a[data-p] [+js(set-attr, c-wiz
+liberation.fr|officedepot.fr|oui.sncf##js').createElement, '.+js(acs, document
+sfr.fr##+js(aopr, _oEa)
+brillen.de##+js(acs, document.createElement, 'script')
+! Conversion error: name 'marker' is not defined - Original: ||marketing.net.*^$1p
+! Conversion error: name 'marker' is not defined - Original: ||vidtech.cbsinteractive.com^*/tracking/$script,redirect=noop.js,important
+! Conversion error: name 'marker' is not defined - Original: ||carsensor.net/usedcar/modules/clicklog_$xhr,1p,important,redirect=noop.txt
+! Conversion error: name 'marker' is not defined - Original: /analytics/analytics.$~xmlhttprequest,3p
+! Conversion error: name 'marker' is not defined - Original: /ga_setup.js$3p
+! Conversion error: name 'marker' is not defined - Original: /googleanalytics.js$3p
+! Conversion error: name 'marker' is not defined - Original: -google-analytics/$domain=~wordpress.org,badfilter
+! Conversion error: name 'marker' is not defined - Original: -google-analytics/$3p,domain=~wordpress.org|~brookson.co.uk
+! Conversion error: name 'marker' is not defined - Original: ||the-japan-news.com/modules/js/lib/fgp/fingerprint2.js$script,redirect=fingerprint2.js,important
+! Conversion error: name 'marker' is not defined - Original: ||mtsa.com.my/mtcs.php/pageview/track^$image
+! Conversion error: name 'marker' is not defined - Original: ||api.tumblr.com/*/share/stats$script,3p
+frogogo.ru##+js(aopw, ADMITAD)
+! Conversion error: name 'marker' is not defined - Original: ||artfut.com/static/tagtag.$script,3p,redirect=noop.js
+! Conversion error: name 'marker' is not defined - Original: ||copyhomework.com^
+! Conversion error: name 'marker' is not defined - Original: ||coursecopy.com^
+! Conversion error: name 'marker' is not defined - Original: ||quiztoolbox.com^
+! Conversion error: name 'marker' is not defined - Original: ||quizlookup.com^
+! Conversion error: name 'marker' is not defined - Original: ||studyeffect.com^
+! Conversion error: name 'marker' is not defined - Original: ||testbooksolutions.com^
+@@||googletagmanager.com/gtm.js$script,domain=rocketnews24.com
+! Conversion error: name 'marker' is not defined - Original: /stats.php?*event=$image
+! Conversion error: name 'marker' is not defined - Original: /check.php?t=*&rand=$image,1p
+! Conversion error: name 'marker' is not defined - Original: /jquery.js?*&rx=*&foxtail=$image,1p
+! Conversion error: name 'marker' is not defined - Original: ||jsdelivr.net/npm/skx@*/optical.js
+! Conversion error: name 'marker' is not defined - Original: /counter/?domain=$image,1p
+! Conversion error: name 'marker' is not defined - Original: ||hd21.com/ajax/track?
+! Conversion error: name 'marker' is not defined - Original: ||drtuber.*/ajax/track?track_type=
+! Conversion error: name 'marker' is not defined - Original: ||playbrain.io/analytics/
+tweakers.net##+js(aost, btoa, send)
+! Conversion error: name 'marker' is not defined - Original: ||yuktamedia.com^$3p
+! Conversion error: name 'marker' is not defined - Original: ||gamedock.io^$3p
+! Conversion error: name 'marker' is not defined - Original: ||stats.webgames.io^
+! Conversion error: name 'marker' is not defined - Original: ||blogfoster.com^$3p
+! Conversion error: name 'marker' is not defined - Original: ||myanalytic.net^$3p
+! Conversion error: name 'marker' is not defined - Original: ||t.simply-hentai.com^
+brave.com|search.brave.com##+js(no-fetch-if, body:browser)
+! Conversion error: name 'marker' is not defined - Original: ||d3bch4rrbnbe5n.cloudfront.net/pxl.png^
+! Conversion error: name 'marker' is not defined - Original: /visilabs.min.js
+! Conversion error: name 'marker' is not defined - Original: ||civicscience.com^$3p
+! Conversion error: name 'marker' is not defined - Original: /\/[a-z0-9]{12}\/[a-zA-Z0-9\/\+\-]{97,106}$/$match-case,script,1p,strict1p
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/(?!assets|script|static)(?:[0-9a-z]{10,13}|[0-9a-z]{6})\.[0-9A-Za-z.\-_]+\/(?=[0-9a-z+\/\-]*[A-Z])[0-9A-Za-z+\/\-]{80,106}$/$script,1p,match-case,strict3p
+! Conversion error: name 'marker' is not defined - Original: /dataunlocker$script,1p,domain=~dataunlocker.com
+! Conversion error: name 'marker' is not defined - Original: ||data-saver-cindi.herokuapp.com^
+! Conversion error: name 'marker' is not defined - Original: ||franchiseplus.nl^$csp=script-src * 'unsafe-inline' 'wasm-unsafe-eval' data: blob: mediastream: filesystem:
+! Conversion error: name 'marker' is not defined - Original: ||nikitaeverywhere.com^$script,xhr,1p
+@@||nikitaeverywhere.com/static/js/main-*.js|$script
+@@||nikitaeverywhere.com/nikitaeverywhere-com-content/data.json|
+accuretawealth.com|adaptive.marketing|bitdomain.biz|camberlion.com|cefirates.com|comicleaks.com|controlconceptsusa.com|creatordrop.com|etip.io|fort-shop.kiev.ua|madisonspecs.com|nookgaming.com|ping.gg|resourceya.com|ryaktive.com|segops.madisonspecs.com|stresshelden-coaching.de|tapmyback.com|tip.etip-staging.etip.io|tracktheta.com|trybawaryjny.pl##^script:has-text("join('')")
+bolighub.dk|furucombo.app|future-fortune.com##^script:has-text('join("")')
+abhijith.page|adria.gg|fjlaboratories.com|freelancer.taxmachine.be|helpmonks.com|intercity.technology|kodalia.com|taxmachine.be##^script:has-text(api.dataunlocker.com)
+trybawaryjny.pl##^script[src^="data:text/javascript;base64,CiAgRnVuY"]
+dataunlocker.com##^script:has-text(/^Function\(\"/)
+accuretawealth.com|adaptive.marketing|bitdomain.biz|camberlion.com|cefirates.com|comicleaks.com|controlconceptsusa.com|creatordrop.com|etip.io|fort-shop.kiev.ua|madisonspecs.com|nookgaming.com|ping.gg|resourceya.com|ryaktive.com|segops.madisonspecs.com|stresshelden-coaching.de|tapmyback.com|tip.etip-staging.etip.io|tracktheta.com|trybawaryjny.pl##+js(rmnt, script, /join\(\'\'\)/)
+bolighub.dk|furucombo.app|future-fortune.com##+js(rmnt, script, /join\(\"\"\)/)
+abhijith.page|adria.gg|fjlaboratories.com|freelancer.taxmachine.be|helpmonks.com|intercity.technology|taxmachine.be##com).dataunlocker.+js(rmnt, script, api
+! Conversion error: name 'marker' is not defined - Original: ||trybawaryjny.pl^$csp=script-src * 'unsafe-inline' 'wasm-unsafe-eval' data: blob: mediastream: filesystem:
+dataunlocker.com##+js(rmnt, script, /^Function\(\"/)
+! Conversion error: name 'marker' is not defined - Original: ||washpost.nile.works^
+! Conversion error: name 'marker' is not defined - Original: /p13n/batch/action/*$image
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/cdn\.jsdelivr\.net\/npm\/[-a-z_]{4,22}@latest\/dist\/script\.min\.js$/$script,3p,match-case
+*.|373news.com|aikatu.jp|aniroleplay.com|ap7am.com|areaconnect.com|as-web.jp|aucfree.com|autoby.jp|autofrage.net|automobile-catalog.com|bab.la|babla.*|badmouth1.com|bamgosu.site|bg-mania.jp|bleepingcomputer.com|blogmura.com|buzzfeed.com|buzzfeednews.com|cambridge.org|chanto.jp.net|cinema.com.my|cinetrafic.fr|cocokara-next.com|collinsdictionary.com|computerfrage.net|convertcase.net|cool-style.com.tw|crosswordsolver.com|cruciverba.it|cults3d.com|daily.co.jp|dailynewshungary.com|dayspedia.com|dictionary.cambridge.org|dnevno.hr|dogdrip.net|dolldivine.com|donbalon.com|donga.com|dramabeans.com|dropgame.jp|dziennik.pl|economictimes.com|economist.co.kr|edaily.co.kr|etoday.co.kr|etoland.co.kr|eurointegration.com.ua|ev-times.com|flatpanelshd.com|fntimes.com|footballtransfer.com.ua|footballtransfer.ru|forsal.pl|freemcserver.net|fxstreet-id.com|fxstreet-vn.com|fxstreet.*|gazetaprawna.pl|genialetricks.de|giornalone.it|globalrph.com|gloria.hr|golf-live.at|grapps.me|heureka.cz|hometownstation.com|honkailab.com|horairesdouverture24.fr|hotcopper.com.au|infinityfree.com|iplocation.net|islamicfinder.org|isplus.com|issuya.com|iusm.co.kr|j-cast.com|j-town.net|jablickar.cz|jamaicaobserver.com|javatpoint.com|jawapos.com|jmty.jp|joemonster.org|jp.net|judgehype.com|jutarnji.hr|kinmaweb.jp|km77.com|knowt.com|kobe-journal.com|kompasiana.com|kreuzwortraetsel.de|kurashiru.com|kyoteibiyori.com|lacuarta.com|laleggepertutti.it|lamire.jp|ldoceonline.com|letemsvetemapplem.eu|lifehacker.jp|listentotaxman.com|livenewschat.eu|loawa.com|logicieleducatif.fr|maketecheasier.com|malaymail.com|mamastar.jp|manta.com|mathplayzone.com|mediaindonesia.com|midhudsonnews.com|minkou.jp|missyusa.com|mlbpark.donga.com|motor-talk.de|motscroises.fr|muragon.com|mynet.com|nana-press.com|nbadraft.net|netzwelt.de|newsinlevels.com|newsweekjapan.jp|niketalk.com|oeffnungszeitenbuch.de|ondemandkorea.com|onlineradiobox.com|optionsprofitcalculator.com|oraridiapertura24.it|oxfordlearnersdictionaries.com|palabr.as|pashplus.jp|persoenlich.com|petitfute.com|picksandparlays.net|picrew.me|powerpyx.com|pptvhd36.com|pravda.com.ua|pressian.com|profitline.hu|quefaire.be|radio-australia.org|radio-osterreich.at|raenonx.cc|raetsel-hilfe.de|references.be|relevantmagazine.com|reportera.co.kr|roleplayer.me|rostercon.com|samsungmagazine.eu|scribens.com|scribens.fr|slashdot.org|slobodnadalmacija.hr|smsonline.cloud|soccerdigestweb.com|sourceforge.net|southhemitv.com|sportalkorea.com|sportsrec.com|sportsseoul.com|szamoldki.hu|talkwithstranger.com|tbsradio.jp|text-compare.com|thatgossip.com|the-crossword-solver.com|thedigestweb.com|thefreebieguy.com|tportal.hr|traicy.com|transparentcalifornia.com|transparentnevada.com|tunebat.com|tvtv.ca|tvtv.us|tyda.se|tz.de|ufret.jp|upmedia.mg|verkaufsoffener-sonntag.com|w.grapps.me|watchdocumentaries.com|webdesignledger.com|wfmz.com|winfuture.de|word-grabber.com|worldhistory.org|worldjournal.com|wort-suchen.de|woxikon.*|yakkun.com|ygosu.com|yutura.net|zagreb.info|zakzak.co.jp##+js(set-local-storage-item, adshield-analytics-uuid, $remove$)
+*.|373news.com|aikatu.jp|aniroleplay.com|ap7am.com|areaconnect.com|as-web.jp|aucfree.com|autoby.jp|autofrage.net|automobile-catalog.com|bab.la|babla.*|badmouth1.com|bamgosu.site|bg-mania.jp|bleepingcomputer.com|blogmura.com|buzzfeed.com|buzzfeednews.com|cambridge.org|chanto.jp.net|cinema.com.my|cinetrafic.fr|cocokara-next.com|collinsdictionary.com|computerfrage.net|convertcase.net|cool-style.com.tw|crosswordsolver.com|cruciverba.it|cults3d.com|daily.co.jp|dailynewshungary.com|dayspedia.com|dictionary.cambridge.org|dnevno.hr|dogdrip.net|dolldivine.com|donbalon.com|donga.com|dramabeans.com|dropgame.jp|dziennik.pl|economictimes.com|economist.co.kr|edaily.co.kr|etoday.co.kr|etoland.co.kr|eurointegration.com.ua|ev-times.com|flatpanelshd.com|fntimes.com|footballtransfer.com.ua|footballtransfer.ru|forsal.pl|freemcserver.net|fxstreet-id.com|fxstreet-vn.com|fxstreet.*|gazetaprawna.pl|genialetricks.de|giornalone.it|globalrph.com|gloria.hr|golf-live.at|grapps.me|heureka.cz|hometownstation.com|honkailab.com|horairesdouverture24.fr|hotcopper.com.au|infinityfree.com|iplocation.net|islamicfinder.org|isplus.com|issuya.com|iusm.co.kr|j-cast.com|j-town.net|jablickar.cz|jamaicaobserver.com|javatpoint.com|jawapos.com|jmty.jp|joemonster.org|jp.net|judgehype.com|jutarnji.hr|kinmaweb.jp|km77.com|knowt.com|kobe-journal.com|kompasiana.com|kreuzwortraetsel.de|kurashiru.com|kyoteibiyori.com|lacuarta.com|laleggepertutti.it|lamire.jp|ldoceonline.com|letemsvetemapplem.eu|lifehacker.jp|listentotaxman.com|livenewschat.eu|loawa.com|logicieleducatif.fr|maketecheasier.com|malaymail.com|mamastar.jp|manta.com|mathplayzone.com|mediaindonesia.com|midhudsonnews.com|minkou.jp|missyusa.com|mlbpark.donga.com|motor-talk.de|motscroises.fr|muragon.com|mynet.com|nana-press.com|nbadraft.net|netzwelt.de|newsinlevels.com|newsweekjapan.jp|niketalk.com|oeffnungszeitenbuch.de|ondemandkorea.com|onlineradiobox.com|optionsprofitcalculator.com|oraridiapertura24.it|oxfordlearnersdictionaries.com|palabr.as|pashplus.jp|persoenlich.com|petitfute.com|picksandparlays.net|picrew.me|powerpyx.com|pptvhd36.com|pravda.com.ua|pressian.com|profitline.hu|quefaire.be|radio-australia.org|radio-osterreich.at|raenonx.cc|raetsel-hilfe.de|references.be|relevantmagazine.com|reportera.co.kr|roleplayer.me|rostercon.com|samsungmagazine.eu|scribens.com|scribens.fr|slashdot.org|slobodnadalmacija.hr|smsonline.cloud|soccerdigestweb.com|sourceforge.net|southhemitv.com|sportalkorea.com|sportsrec.com|sportsseoul.com|szamoldki.hu|talkwithstranger.com|tbsradio.jp|text-compare.com|thatgossip.com|the-crossword-solver.com|thedigestweb.com|thefreebieguy.com|tportal.hr|traicy.com|transparentcalifornia.com|transparentnevada.com|tunebat.com|tvtv.ca|tvtv.us|tyda.se|tz.de|ufret.jp|upmedia.mg|verkaufsoffener-sonntag.com|w.grapps.me|watchdocumentaries.com|webdesignledger.com|wfmz.com|winfuture.de|word-grabber.com|worldhistory.org|worldjournal.com|wort-suchen.de|woxikon.*|yakkun.com|ygosu.com|yutura.net|zagreb.info|zakzak.co.jp##+js(set-local-storage-item, /_fa_bGFzdF9iZmFfYXQ=$/, $remove$)
+*.|373news.com|aikatu.jp|aniroleplay.com|ap7am.com|areaconnect.com|as-web.jp|aucfree.com|autoby.jp|autofrage.net|automobile-catalog.com|bab.la|babla.*|badmouth1.com|bamgosu.site|bg-mania.jp|bleepingcomputer.com|blogmura.com|buzzfeed.com|buzzfeednews.com|cambridge.org|chanto.jp.net|cinema.com.my|cinetrafic.fr|cocokara-next.com|collinsdictionary.com|computerfrage.net|convertcase.net|cool-style.com.tw|crosswordsolver.com|cruciverba.it|cults3d.com|daily.co.jp|dailynewshungary.com|dayspedia.com|dictionary.cambridge.org|dnevno.hr|dogdrip.net|dolldivine.com|donbalon.com|donga.com|dramabeans.com|dropgame.jp|dziennik.pl|economictimes.com|economist.co.kr|edaily.co.kr|etoday.co.kr|etoland.co.kr|eurointegration.com.ua|ev-times.com|flatpanelshd.com|fntimes.com|footballtransfer.com.ua|footballtransfer.ru|forsal.pl|freemcserver.net|fxstreet-id.com|fxstreet-vn.com|fxstreet.*|gazetaprawna.pl|genialetricks.de|giornalone.it|globalrph.com|gloria.hr|golf-live.at|grapps.me|heureka.cz|hometownstation.com|honkailab.com|horairesdouverture24.fr|hotcopper.com.au|infinityfree.com|iplocation.net|islamicfinder.org|isplus.com|issuya.com|iusm.co.kr|j-cast.com|j-town.net|jablickar.cz|jamaicaobserver.com|javatpoint.com|jawapos.com|jmty.jp|joemonster.org|jp.net|judgehype.com|jutarnji.hr|kinmaweb.jp|km77.com|knowt.com|kobe-journal.com|kompasiana.com|kreuzwortraetsel.de|kurashiru.com|kyoteibiyori.com|lacuarta.com|laleggepertutti.it|lamire.jp|ldoceonline.com|letemsvetemapplem.eu|lifehacker.jp|listentotaxman.com|livenewschat.eu|loawa.com|logicieleducatif.fr|maketecheasier.com|malaymail.com|mamastar.jp|manta.com|mathplayzone.com|mediaindonesia.com|midhudsonnews.com|minkou.jp|missyusa.com|mlbpark.donga.com|motor-talk.de|motscroises.fr|muragon.com|mynet.com|nana-press.com|nbadraft.net|netzwelt.de|newsinlevels.com|newsweekjapan.jp|niketalk.com|oeffnungszeitenbuch.de|ondemandkorea.com|onlineradiobox.com|optionsprofitcalculator.com|oraridiapertura24.it|oxfordlearnersdictionaries.com|palabr.as|pashplus.jp|persoenlich.com|petitfute.com|picksandparlays.net|picrew.me|powerpyx.com|pptvhd36.com|pravda.com.ua|pressian.com|profitline.hu|quefaire.be|radio-australia.org|radio-osterreich.at|raenonx.cc|raetsel-hilfe.de|references.be|relevantmagazine.com|reportera.co.kr|roleplayer.me|rostercon.com|samsungmagazine.eu|scribens.com|scribens.fr|slashdot.org|slobodnadalmacija.hr|smsonline.cloud|soccerdigestweb.com|sourceforge.net|southhemitv.com|sportalkorea.com|sportsrec.com|sportsseoul.com|szamoldki.hu|talkwithstranger.com|tbsradio.jp|text-compare.com|thatgossip.com|the-crossword-solver.com|thedigestweb.com|thefreebieguy.com|tportal.hr|traicy.com|transparentcalifornia.com|transparentnevada.com|tunebat.com|tvtv.ca|tvtv.us|tyda.se|tz.de|ufret.jp|upmedia.mg|verkaufsoffener-sonntag.com|w.grapps.me|watchdocumentaries.com|webdesignledger.com|wfmz.com|winfuture.de|word-grabber.com|worldhistory.org|worldjournal.com|wort-suchen.de|woxikon.*|yakkun.com|ygosu.com|yutura.net|zagreb.info|zakzak.co.jp##+js(set-local-storage-item, /_fa_dXVpZA==$/, $remove$)
+*.|373news.com|aikatu.jp|aniroleplay.com|ap7am.com|areaconnect.com|as-web.jp|aucfree.com|autoby.jp|autofrage.net|automobile-catalog.com|bab.la|babla.*|badmouth1.com|bamgosu.site|bg-mania.jp|bleepingcomputer.com|blogmura.com|buzzfeed.com|buzzfeednews.com|cambridge.org|chanto.jp.net|cinema.com.my|cinetrafic.fr|cocokara-next.com|collinsdictionary.com|computerfrage.net|convertcase.net|cool-style.com.tw|crosswordsolver.com|cruciverba.it|cults3d.com|daily.co.jp|dailynewshungary.com|dayspedia.com|dictionary.cambridge.org|dnevno.hr|dogdrip.net|dolldivine.com|donbalon.com|donga.com|dramabeans.com|dropgame.jp|dziennik.pl|economictimes.com|economist.co.kr|edaily.co.kr|etoday.co.kr|etoland.co.kr|eurointegration.com.ua|ev-times.com|flatpanelshd.com|fntimes.com|footballtransfer.com.ua|footballtransfer.ru|forsal.pl|freemcserver.net|fxstreet-id.com|fxstreet-vn.com|fxstreet.*|gazetaprawna.pl|genialetricks.de|giornalone.it|globalrph.com|gloria.hr|golf-live.at|grapps.me|heureka.cz|hometownstation.com|honkailab.com|horairesdouverture24.fr|hotcopper.com.au|infinityfree.com|iplocation.net|islamicfinder.org|isplus.com|issuya.com|iusm.co.kr|j-cast.com|j-town.net|jablickar.cz|jamaicaobserver.com|javatpoint.com|jawapos.com|jmty.jp|joemonster.org|jp.net|judgehype.com|jutarnji.hr|kinmaweb.jp|km77.com|knowt.com|kobe-journal.com|kompasiana.com|kreuzwortraetsel.de|kurashiru.com|kyoteibiyori.com|lacuarta.com|laleggepertutti.it|lamire.jp|ldoceonline.com|letemsvetemapplem.eu|lifehacker.jp|listentotaxman.com|livenewschat.eu|loawa.com|logicieleducatif.fr|maketecheasier.com|malaymail.com|mamastar.jp|manta.com|mathplayzone.com|mediaindonesia.com|midhudsonnews.com|minkou.jp|missyusa.com|mlbpark.donga.com|motor-talk.de|motscroises.fr|muragon.com|mynet.com|nana-press.com|nbadraft.net|netzwelt.de|newsinlevels.com|newsweekjapan.jp|niketalk.com|oeffnungszeitenbuch.de|ondemandkorea.com|onlineradiobox.com|optionsprofitcalculator.com|oraridiapertura24.it|oxfordlearnersdictionaries.com|palabr.as|pashplus.jp|persoenlich.com|petitfute.com|picksandparlays.net|picrew.me|powerpyx.com|pptvhd36.com|pravda.com.ua|pressian.com|profitline.hu|quefaire.be|radio-australia.org|radio-osterreich.at|raenonx.cc|raetsel-hilfe.de|references.be|relevantmagazine.com|reportera.co.kr|roleplayer.me|rostercon.com|samsungmagazine.eu|scribens.com|scribens.fr|slashdot.org|slobodnadalmacija.hr|smsonline.cloud|soccerdigestweb.com|sourceforge.net|southhemitv.com|sportalkorea.com|sportsrec.com|sportsseoul.com|szamoldki.hu|talkwithstranger.com|tbsradio.jp|text-compare.com|thatgossip.com|the-crossword-solver.com|thedigestweb.com|thefreebieguy.com|tportal.hr|traicy.com|transparentcalifornia.com|transparentnevada.com|tunebat.com|tvtv.ca|tvtv.us|tyda.se|tz.de|ufret.jp|upmedia.mg|verkaufsoffener-sonntag.com|w.grapps.me|watchdocumentaries.com|webdesignledger.com|wfmz.com|winfuture.de|word-grabber.com|worldhistory.org|worldjournal.com|wort-suchen.de|woxikon.*|yakkun.com|ygosu.com|yutura.net|zagreb.info|zakzak.co.jp##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWNjZXB0YWJsZV9hZHM=$/, $remove$)
+*.|373news.com|aikatu.jp|aniroleplay.com|ap7am.com|areaconnect.com|as-web.jp|aucfree.com|autoby.jp|autofrage.net|automobile-catalog.com|bab.la|babla.*|badmouth1.com|bamgosu.site|bg-mania.jp|bleepingcomputer.com|blogmura.com|buzzfeed.com|buzzfeednews.com|cambridge.org|chanto.jp.net|cinema.com.my|cinetrafic.fr|cocokara-next.com|collinsdictionary.com|computerfrage.net|convertcase.net|cool-style.com.tw|crosswordsolver.com|cruciverba.it|cults3d.com|daily.co.jp|dailynewshungary.com|dayspedia.com|dictionary.cambridge.org|dnevno.hr|dogdrip.net|dolldivine.com|donbalon.com|donga.com|dramabeans.com|dropgame.jp|dziennik.pl|economictimes.com|economist.co.kr|edaily.co.kr|etoday.co.kr|etoland.co.kr|eurointegration.com.ua|ev-times.com|flatpanelshd.com|fntimes.com|footballtransfer.com.ua|footballtransfer.ru|forsal.pl|freemcserver.net|fxstreet-id.com|fxstreet-vn.com|fxstreet.*|gazetaprawna.pl|genialetricks.de|giornalone.it|globalrph.com|gloria.hr|golf-live.at|grapps.me|heureka.cz|hometownstation.com|honkailab.com|horairesdouverture24.fr|hotcopper.com.au|infinityfree.com|iplocation.net|islamicfinder.org|isplus.com|issuya.com|iusm.co.kr|j-cast.com|j-town.net|jablickar.cz|jamaicaobserver.com|javatpoint.com|jawapos.com|jmty.jp|joemonster.org|jp.net|judgehype.com|jutarnji.hr|kinmaweb.jp|km77.com|knowt.com|kobe-journal.com|kompasiana.com|kreuzwortraetsel.de|kurashiru.com|kyoteibiyori.com|lacuarta.com|laleggepertutti.it|lamire.jp|ldoceonline.com|letemsvetemapplem.eu|lifehacker.jp|listentotaxman.com|livenewschat.eu|loawa.com|logicieleducatif.fr|maketecheasier.com|malaymail.com|mamastar.jp|manta.com|mathplayzone.com|mediaindonesia.com|midhudsonnews.com|minkou.jp|missyusa.com|mlbpark.donga.com|motor-talk.de|motscroises.fr|muragon.com|mynet.com|nana-press.com|nbadraft.net|netzwelt.de|newsinlevels.com|newsweekjapan.jp|niketalk.com|oeffnungszeitenbuch.de|ondemandkorea.com|onlineradiobox.com|optionsprofitcalculator.com|oraridiapertura24.it|oxfordlearnersdictionaries.com|palabr.as|pashplus.jp|persoenlich.com|petitfute.com|picksandparlays.net|picrew.me|powerpyx.com|pptvhd36.com|pravda.com.ua|pressian.com|profitline.hu|quefaire.be|radio-australia.org|radio-osterreich.at|raenonx.cc|raetsel-hilfe.de|references.be|relevantmagazine.com|reportera.co.kr|roleplayer.me|rostercon.com|samsungmagazine.eu|scribens.com|scribens.fr|slashdot.org|slobodnadalmacija.hr|smsonline.cloud|soccerdigestweb.com|sourceforge.net|southhemitv.com|sportalkorea.com|sportsrec.com|sportsseoul.com|szamoldki.hu|talkwithstranger.com|tbsradio.jp|text-compare.com|thatgossip.com|the-crossword-solver.com|thedigestweb.com|thefreebieguy.com|tportal.hr|traicy.com|transparentcalifornia.com|transparentnevada.com|tunebat.com|tvtv.ca|tvtv.us|tyda.se|tz.de|ufret.jp|upmedia.mg|verkaufsoffener-sonntag.com|w.grapps.me|watchdocumentaries.com|webdesignledger.com|wfmz.com|winfuture.de|word-grabber.com|worldhistory.org|worldjournal.com|wort-suchen.de|woxikon.*|yakkun.com|ygosu.com|yutura.net|zagreb.info|zakzak.co.jp##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWRz$/, $remove$)
+*.|373news.com|aikatu.jp|aniroleplay.com|ap7am.com|areaconnect.com|as-web.jp|aucfree.com|autoby.jp|autofrage.net|automobile-catalog.com|bab.la|babla.*|badmouth1.com|bamgosu.site|bg-mania.jp|bleepingcomputer.com|blogmura.com|buzzfeed.com|buzzfeednews.com|cambridge.org|chanto.jp.net|cinema.com.my|cinetrafic.fr|cocokara-next.com|collinsdictionary.com|computerfrage.net|convertcase.net|cool-style.com.tw|crosswordsolver.com|cruciverba.it|cults3d.com|daily.co.jp|dailynewshungary.com|dayspedia.com|dictionary.cambridge.org|dnevno.hr|dogdrip.net|dolldivine.com|donbalon.com|donga.com|dramabeans.com|dropgame.jp|dziennik.pl|economictimes.com|economist.co.kr|edaily.co.kr|etoday.co.kr|etoland.co.kr|eurointegration.com.ua|ev-times.com|flatpanelshd.com|fntimes.com|footballtransfer.com.ua|footballtransfer.ru|forsal.pl|freemcserver.net|fxstreet-id.com|fxstreet-vn.com|fxstreet.*|gazetaprawna.pl|genialetricks.de|giornalone.it|globalrph.com|gloria.hr|golf-live.at|grapps.me|heureka.cz|hometownstation.com|honkailab.com|horairesdouverture24.fr|hotcopper.com.au|infinityfree.com|iplocation.net|islamicfinder.org|isplus.com|issuya.com|iusm.co.kr|j-cast.com|j-town.net|jablickar.cz|jamaicaobserver.com|javatpoint.com|jawapos.com|jmty.jp|joemonster.org|jp.net|judgehype.com|jutarnji.hr|kinmaweb.jp|km77.com|knowt.com|kobe-journal.com|kompasiana.com|kreuzwortraetsel.de|kurashiru.com|kyoteibiyori.com|lacuarta.com|laleggepertutti.it|lamire.jp|ldoceonline.com|letemsvetemapplem.eu|lifehacker.jp|listentotaxman.com|livenewschat.eu|loawa.com|logicieleducatif.fr|maketecheasier.com|malaymail.com|mamastar.jp|manta.com|mathplayzone.com|mediaindonesia.com|midhudsonnews.com|minkou.jp|missyusa.com|mlbpark.donga.com|motor-talk.de|motscroises.fr|muragon.com|mynet.com|nana-press.com|nbadraft.net|netzwelt.de|newsinlevels.com|newsweekjapan.jp|niketalk.com|oeffnungszeitenbuch.de|ondemandkorea.com|onlineradiobox.com|optionsprofitcalculator.com|oraridiapertura24.it|oxfordlearnersdictionaries.com|palabr.as|pashplus.jp|persoenlich.com|petitfute.com|picksandparlays.net|picrew.me|powerpyx.com|pptvhd36.com|pravda.com.ua|pressian.com|profitline.hu|quefaire.be|radio-australia.org|radio-osterreich.at|raenonx.cc|raetsel-hilfe.de|references.be|relevantmagazine.com|reportera.co.kr|roleplayer.me|rostercon.com|samsungmagazine.eu|scribens.com|scribens.fr|slashdot.org|slobodnadalmacija.hr|smsonline.cloud|soccerdigestweb.com|sourceforge.net|southhemitv.com|sportalkorea.com|sportsrec.com|sportsseoul.com|szamoldki.hu|talkwithstranger.com|tbsradio.jp|text-compare.com|thatgossip.com|the-crossword-solver.com|thedigestweb.com|thefreebieguy.com|tportal.hr|traicy.com|transparentcalifornia.com|transparentnevada.com|tunebat.com|tvtv.ca|tvtv.us|tyda.se|tz.de|ufret.jp|upmedia.mg|verkaufsoffener-sonntag.com|w.grapps.me|watchdocumentaries.com|webdesignledger.com|wfmz.com|winfuture.de|word-grabber.com|worldhistory.org|worldjournal.com|wort-suchen.de|woxikon.*|yakkun.com|ygosu.com|yutura.net|zagreb.info|zakzak.co.jp##+js(set-local-storage-item, /_fa_Y2FjaGVfYWRibG9ja19jaXJjdW12ZW50X3Njb3Jl$/, $remove$)
+2chblog.jp|2monkeys.jp|46matome.net|akb48glabo.com|akb48matomemory.com|alfalfalfa.com|all-nationz.com|anihatsu.com|aqua2ch.net|blog.esuteru.com|blog.jp|blog.livedoor.jp|blogo.jp|chaos2ch.com|choco0202.work|crx7601.com|danseisama.com|dareda.net|digital-thread.com|doorblog.jp|esuteru.com|exawarosu.net|fesoku.net|fgochaldeas.com|fiveslot777.com|football-2ch.com|gamejksokuhou.com|gekiyaku.com|girlsreport.net|girlsvip-matome.com|golog.jp|grasoku.com|gundamlog.com|hacchaka.net|heartlife-matome.com|honyaku-channel.net|ikarishintou.com|imas-cg.net|imihu.net|inutomo11.com|itainews.com|itaishinja.com|jin115.com|jisaka.com|jnews1.com|jumpsokuhou.com|jyoseisama.com|keyakizaka46matomemory.net|kidan-m.com|kijoden.com|kijolariat.net|kijolifehack.com|kijomatomelog.com|kijyokatu.com|kijyomatome-ch.com|kijyomatome.com|kijyomita.com|kirarafan.com|kitimama-matome.net|kitizawa.com|konoyubitomare.jp|kotaro269.com|kyousoku.net|ldblog.jp|liblo.jp|livedoor.biz|livedoor.blog|livedoor.jp|majikichi.com|matacoco.com|matomeblade.com|matomelotte.com|matometemitatta.com|mojomojo-licarca.com|morikinoko.com|nandemo-uketori.com|netatama.net|news-buzz1.com|news30over.com|nmb48-mtm.com|norisoku.com|npb-news.com|ocsoku.com|okusama-kijyo.com|onihimechan.com|orusoku.com|otakomu.jp|otoko-honne.com|oumaga-times.com|outdoormatome.com|pachinkopachisro.com|paranormal-ch.com|recosoku.com|s2-log.com|saikyo-jump.com|shuraba-matome.com|ske48matome.net|squallchannel.com|sukattojapan.com|sumaburayasan.com|sutekinakijo.com|usi32.com|uwakich.com|uwakitaiken.com|vault76.info|vipnews.jp|vippers.jp|vipsister23.com|vtubernews.jp|watarukiti.com|world-fusigi.net|zakuzaku911.com|zch-vip.com##+js(set-local-storage-item, adshield-analytics-uuid, $remove$)
+2chblog.jp|2monkeys.jp|46matome.net|akb48glabo.com|akb48matomemory.com|alfalfalfa.com|all-nationz.com|anihatsu.com|aqua2ch.net|blog.esuteru.com|blog.jp|blog.livedoor.jp|blogo.jp|chaos2ch.com|choco0202.work|crx7601.com|danseisama.com|dareda.net|digital-thread.com|doorblog.jp|esuteru.com|exawarosu.net|fesoku.net|fgochaldeas.com|fiveslot777.com|football-2ch.com|gamejksokuhou.com|gekiyaku.com|girlsreport.net|girlsvip-matome.com|golog.jp|grasoku.com|gundamlog.com|hacchaka.net|heartlife-matome.com|honyaku-channel.net|ikarishintou.com|imas-cg.net|imihu.net|inutomo11.com|itainews.com|itaishinja.com|jin115.com|jisaka.com|jnews1.com|jumpsokuhou.com|jyoseisama.com|keyakizaka46matomemory.net|kidan-m.com|kijoden.com|kijolariat.net|kijolifehack.com|kijomatomelog.com|kijyokatu.com|kijyomatome-ch.com|kijyomatome.com|kijyomita.com|kirarafan.com|kitimama-matome.net|kitizawa.com|konoyubitomare.jp|kotaro269.com|kyousoku.net|ldblog.jp|liblo.jp|livedoor.biz|livedoor.blog|livedoor.jp|majikichi.com|matacoco.com|matomeblade.com|matomelotte.com|matometemitatta.com|mojomojo-licarca.com|morikinoko.com|nandemo-uketori.com|netatama.net|news-buzz1.com|news30over.com|nmb48-mtm.com|norisoku.com|npb-news.com|ocsoku.com|okusama-kijyo.com|onihimechan.com|orusoku.com|otakomu.jp|otoko-honne.com|oumaga-times.com|outdoormatome.com|pachinkopachisro.com|paranormal-ch.com|recosoku.com|s2-log.com|saikyo-jump.com|shuraba-matome.com|ske48matome.net|squallchannel.com|sukattojapan.com|sumaburayasan.com|sutekinakijo.com|usi32.com|uwakich.com|uwakitaiken.com|vault76.info|vipnews.jp|vippers.jp|vipsister23.com|vtubernews.jp|watarukiti.com|world-fusigi.net|zakuzaku911.com|zch-vip.com##+js(set-local-storage-item, /_fa_bGFzdF9iZmFfYXQ=$/, $remove$)
+2chblog.jp|2monkeys.jp|46matome.net|akb48glabo.com|akb48matomemory.com|alfalfalfa.com|all-nationz.com|anihatsu.com|aqua2ch.net|blog.esuteru.com|blog.jp|blog.livedoor.jp|blogo.jp|chaos2ch.com|choco0202.work|crx7601.com|danseisama.com|dareda.net|digital-thread.com|doorblog.jp|esuteru.com|exawarosu.net|fesoku.net|fgochaldeas.com|fiveslot777.com|football-2ch.com|gamejksokuhou.com|gekiyaku.com|girlsreport.net|girlsvip-matome.com|golog.jp|grasoku.com|gundamlog.com|hacchaka.net|heartlife-matome.com|honyaku-channel.net|ikarishintou.com|imas-cg.net|imihu.net|inutomo11.com|itainews.com|itaishinja.com|jin115.com|jisaka.com|jnews1.com|jumpsokuhou.com|jyoseisama.com|keyakizaka46matomemory.net|kidan-m.com|kijoden.com|kijolariat.net|kijolifehack.com|kijomatomelog.com|kijyokatu.com|kijyomatome-ch.com|kijyomatome.com|kijyomita.com|kirarafan.com|kitimama-matome.net|kitizawa.com|konoyubitomare.jp|kotaro269.com|kyousoku.net|ldblog.jp|liblo.jp|livedoor.biz|livedoor.blog|livedoor.jp|majikichi.com|matacoco.com|matomeblade.com|matomelotte.com|matometemitatta.com|mojomojo-licarca.com|morikinoko.com|nandemo-uketori.com|netatama.net|news-buzz1.com|news30over.com|nmb48-mtm.com|norisoku.com|npb-news.com|ocsoku.com|okusama-kijyo.com|onihimechan.com|orusoku.com|otakomu.jp|otoko-honne.com|oumaga-times.com|outdoormatome.com|pachinkopachisro.com|paranormal-ch.com|recosoku.com|s2-log.com|saikyo-jump.com|shuraba-matome.com|ske48matome.net|squallchannel.com|sukattojapan.com|sumaburayasan.com|sutekinakijo.com|usi32.com|uwakich.com|uwakitaiken.com|vault76.info|vipnews.jp|vippers.jp|vipsister23.com|vtubernews.jp|watarukiti.com|world-fusigi.net|zakuzaku911.com|zch-vip.com##+js(set-local-storage-item, /_fa_dXVpZA==$/, $remove$)
+2chblog.jp|2monkeys.jp|46matome.net|akb48glabo.com|akb48matomemory.com|alfalfalfa.com|all-nationz.com|anihatsu.com|aqua2ch.net|blog.esuteru.com|blog.jp|blog.livedoor.jp|blogo.jp|chaos2ch.com|choco0202.work|crx7601.com|danseisama.com|dareda.net|digital-thread.com|doorblog.jp|esuteru.com|exawarosu.net|fesoku.net|fgochaldeas.com|fiveslot777.com|football-2ch.com|gamejksokuhou.com|gekiyaku.com|girlsreport.net|girlsvip-matome.com|golog.jp|grasoku.com|gundamlog.com|hacchaka.net|heartlife-matome.com|honyaku-channel.net|ikarishintou.com|imas-cg.net|imihu.net|inutomo11.com|itainews.com|itaishinja.com|jin115.com|jisaka.com|jnews1.com|jumpsokuhou.com|jyoseisama.com|keyakizaka46matomemory.net|kidan-m.com|kijoden.com|kijolariat.net|kijolifehack.com|kijomatomelog.com|kijyokatu.com|kijyomatome-ch.com|kijyomatome.com|kijyomita.com|kirarafan.com|kitimama-matome.net|kitizawa.com|konoyubitomare.jp|kotaro269.com|kyousoku.net|ldblog.jp|liblo.jp|livedoor.biz|livedoor.blog|livedoor.jp|majikichi.com|matacoco.com|matomeblade.com|matomelotte.com|matometemitatta.com|mojomojo-licarca.com|morikinoko.com|nandemo-uketori.com|netatama.net|news-buzz1.com|news30over.com|nmb48-mtm.com|norisoku.com|npb-news.com|ocsoku.com|okusama-kijyo.com|onihimechan.com|orusoku.com|otakomu.jp|otoko-honne.com|oumaga-times.com|outdoormatome.com|pachinkopachisro.com|paranormal-ch.com|recosoku.com|s2-log.com|saikyo-jump.com|shuraba-matome.com|ske48matome.net|squallchannel.com|sukattojapan.com|sumaburayasan.com|sutekinakijo.com|usi32.com|uwakich.com|uwakitaiken.com|vault76.info|vipnews.jp|vippers.jp|vipsister23.com|vtubernews.jp|watarukiti.com|world-fusigi.net|zakuzaku911.com|zch-vip.com##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWNjZXB0YWJsZV9hZHM=$/, $remove$)
+2chblog.jp|2monkeys.jp|46matome.net|akb48glabo.com|akb48matomemory.com|alfalfalfa.com|all-nationz.com|anihatsu.com|aqua2ch.net|blog.esuteru.com|blog.jp|blog.livedoor.jp|blogo.jp|chaos2ch.com|choco0202.work|crx7601.com|danseisama.com|dareda.net|digital-thread.com|doorblog.jp|esuteru.com|exawarosu.net|fesoku.net|fgochaldeas.com|fiveslot777.com|football-2ch.com|gamejksokuhou.com|gekiyaku.com|girlsreport.net|girlsvip-matome.com|golog.jp|grasoku.com|gundamlog.com|hacchaka.net|heartlife-matome.com|honyaku-channel.net|ikarishintou.com|imas-cg.net|imihu.net|inutomo11.com|itainews.com|itaishinja.com|jin115.com|jisaka.com|jnews1.com|jumpsokuhou.com|jyoseisama.com|keyakizaka46matomemory.net|kidan-m.com|kijoden.com|kijolariat.net|kijolifehack.com|kijomatomelog.com|kijyokatu.com|kijyomatome-ch.com|kijyomatome.com|kijyomita.com|kirarafan.com|kitimama-matome.net|kitizawa.com|konoyubitomare.jp|kotaro269.com|kyousoku.net|ldblog.jp|liblo.jp|livedoor.biz|livedoor.blog|livedoor.jp|majikichi.com|matacoco.com|matomeblade.com|matomelotte.com|matometemitatta.com|mojomojo-licarca.com|morikinoko.com|nandemo-uketori.com|netatama.net|news-buzz1.com|news30over.com|nmb48-mtm.com|norisoku.com|npb-news.com|ocsoku.com|okusama-kijyo.com|onihimechan.com|orusoku.com|otakomu.jp|otoko-honne.com|oumaga-times.com|outdoormatome.com|pachinkopachisro.com|paranormal-ch.com|recosoku.com|s2-log.com|saikyo-jump.com|shuraba-matome.com|ske48matome.net|squallchannel.com|sukattojapan.com|sumaburayasan.com|sutekinakijo.com|usi32.com|uwakich.com|uwakitaiken.com|vault76.info|vipnews.jp|vippers.jp|vipsister23.com|vtubernews.jp|watarukiti.com|world-fusigi.net|zakuzaku911.com|zch-vip.com##+js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWRz$/, $remove$)
+2chblog.jp|2monkeys.jp|46matome.net|akb48glabo.com|akb48matomemory.com|alfalfalfa.com|all-nationz.com|anihatsu.com|aqua2ch.net|blog.esuteru.com|blog.jp|blog.livedoor.jp|blogo.jp|chaos2ch.com|choco0202.work|crx7601.com|danseisama.com|dareda.net|digital-thread.com|doorblog.jp|esuteru.com|exawarosu.net|fesoku.net|fgochaldeas.com|fiveslot777.com|football-2ch.com|gamejksokuhou.com|gekiyaku.com|girlsreport.net|girlsvip-matome.com|golog.jp|grasoku.com|gundamlog.com|hacchaka.net|heartlife-matome.com|honyaku-channel.net|ikarishintou.com|imas-cg.net|imihu.net|inutomo11.com|itainews.com|itaishinja.com|jin115.com|jisaka.com|jnews1.com|jumpsokuhou.com|jyoseisama.com|keyakizaka46matomemory.net|kidan-m.com|kijoden.com|kijolariat.net|kijolifehack.com|kijomatomelog.com|kijyokatu.com|kijyomatome-ch.com|kijyomatome.com|kijyomita.com|kirarafan.com|kitimama-matome.net|kitizawa.com|konoyubitomare.jp|kotaro269.com|kyousoku.net|ldblog.jp|liblo.jp|livedoor.biz|livedoor.blog|livedoor.jp|majikichi.com|matacoco.com|matomeblade.com|matomelotte.com|matometemitatta.com|mojomojo-licarca.com|morikinoko.com|nandemo-uketori.com|netatama.net|news-buzz1.com|news30over.com|nmb48-mtm.com|norisoku.com|npb-news.com|ocsoku.com|okusama-kijyo.com|onihimechan.com|orusoku.com|otakomu.jp|otoko-honne.com|oumaga-times.com|outdoormatome.com|pachinkopachisro.com|paranormal-ch.com|recosoku.com|s2-log.com|saikyo-jump.com|shuraba-matome.com|ske48matome.net|squallchannel.com|sukattojapan.com|sumaburayasan.com|sutekinakijo.com|usi32.com|uwakich.com|uwakitaiken.com|vault76.info|vipnews.jp|vippers.jp|vipsister23.com|vtubernews.jp|watarukiti.com|world-fusigi.net|zakuzaku911.com|zch-vip.com##+js(set-local-storage-item, /_fa_Y2FjaGVfYWRibG9ja19jaXJjdW12ZW50X3Njb3Jl$/, $remove$)
+brandbrief.co.kr|meconomynews.com|motorgraph.com|topstarnews.net##com/).com|html-load\.com|css-load\.online|content-loader\.+js(noeval-if, /07c225f3\
+! Conversion error: name 'marker' is not defined - Original: ||html-load.com^$domain=manta.com|tportal.hr|tvtropes.org|convertcase.net|zeta-ai.io
+brandbrief.co.kr|meconomynews.com|motorgraph.com##^script:has-text(KCgpPT57bGV0IGU)
+convertcase.net|dramabeans.com|dropgame.jp|islamicfinder.org|manta.com|secure-signup.net|topstarnews.net|tportal.hr|tvtropes.org##^script:has-text(error-report.com)
+aikatu.jp|ark-unity.com|cool-style.com.tw|doanhnghiepvn.vn|mynet.com##com"].onload*="error-report[^script
+brandbrief.co.kr|meconomynews.com|motorgraph.com##+js(rmnt, script, KCgpPT57bGV0IGU)
+convertcase.net|dramabeans.com|dropgame.jp|islamicfinder.org|manta.com|secure-signup.net|topstarnews.net|tportal.hr|tvtropes.org##+js(rmnt, script, error-report.com)
+! Conversion error: name 'marker' is not defined - Original: ||html-load.com^$redirect=noopjs,domain=aikatu.jp|ark-unity.com|cool-style.com.tw|doanhnghiepvn.vn|mynet.com
+aikatu.jp|ark-unity.com|cool-style.com.tw|doanhnghiepvn.vn|mynet.com##+js(nostif, error-report.com)
+! Conversion error: name 'marker' is not defined - Original: ||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,redirect=fingerprint2.js,important
+! Conversion error: name 'marker' is not defined - Original: ||g.jwpsrv.com/g/gcid-*?notrack$frame
+tacobell.com##+js(set, bmak.js_post, false)
+! Conversion error: name 'marker' is not defined - Original: ||cloudflare.com/ajax/libs/fingerprintjs2/$script,redirect=fingerprint2.js,important,domain=gamebox.gesoten.com
+! Conversion error: name 'marker' is not defined - Original: ||gamerch.com/s3-assets/library/js/fingerprint2.min.js$script,redirect=fingerprint2.js,important
+! Conversion error: name 'marker' is not defined - Original: ||ahentai.top/counter.php
+! Conversion error: name 'marker' is not defined - Original: ||caitlin.top/counter.php
+! Conversion error: name 'marker' is not defined - Original: ||tr.jianshu.com^
+! Conversion error: name 'marker' is not defined - Original: /lib/f_ad_code.js
+! Conversion error: name 'marker' is not defined - Original: /\.com\/[-_0-9a-zA-Z]{4,}\/[-\/_0-9a-zA-Z]{25,}$/$script,1p,domain=gu-global.com|uniqlo.com
+! Conversion error: name 'marker' is not defined - Original: ||metrics.surinenglish.com^
+@@||natureetdecouvertes.com^*/pixel.png$badfilter
+! Conversion error: name 'marker' is not defined - Original: ||cm.bilibili.com/cm/api/$xhr
+! Conversion error: name 'marker' is not defined - Original: ||wannads.com/api/track/fingerprint^
+! Conversion error: name 'marker' is not defined - Original: ||wuzhuiso.com^$removeparam=src
+! Conversion error: name 'marker' is not defined - Original: ||va.huya.com^
+! Conversion error: name 'marker' is not defined - Original: ||e-stat.huya.com^
+! Conversion error: name 'marker' is not defined - Original: ||analytics.tiendaenoferta.com^
+! Conversion error: name 'marker' is not defined - Original: ||zhihu.com^$removeparam=hybrid_search_source
+! Conversion error: name 'marker' is not defined - Original: ||zhihu.com^$removeparam=hybrid_search_extra
+! Conversion error: name 'marker' is not defined - Original: /cfga/jquery.js?$image
+! Conversion error: name 'marker' is not defined - Original: ||mynewsmedia.co/*/Linkpage/ads_stats_controller.php
+! Conversion error: name 'marker' is not defined - Original: ||gplinks.co/Auth/ads_stats_controller.php
+! Conversion error: name 'marker' is not defined - Original: ||videovard.*/api/front/view^$xhr,important
+endbasic.dev|jmmv.dev##+js(no-xhr-if, method:POST)
+! Conversion error: name 'marker' is not defined - Original: ||b90.yahoo.co.jp^
+! Conversion error: name 'marker' is not defined - Original: ||jsdelivr.net^*/fp.min.js$script,redirect=fingerprint3.js:10
+! Conversion error: name 'marker' is not defined - Original: /log/*$xhr,domain=vizcloud.*|vizcloud2.*
+! Conversion error: name 'marker' is not defined - Original: ||serasaexperian.com.br/dist/scripts/fingerprint2.js^$redirect=fingerprint2.js,script,important
+! Conversion error: name 'marker' is not defined - Original: /?p=%2F*&h=https%3A%2F%2F*&r=&sid=*&qs=*&cid=$image,1p
+! Conversion error: name 'marker' is not defined - Original: /?h=https%3A%2F%2F*&r=&sid=*&qs=*&cid=$image,1p
+! Conversion error: name 'marker' is not defined - Original: /?v=eyJoIjoiaHR0cHM6Ly9$image,1p
+! Conversion error: name 'marker' is not defined - Original: /?v=eyI*sImgiOiJodHRwczovL$image,1p
+! Conversion error: name 'marker' is not defined - Original: ||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js$script,redirect=noop.js,domain=bilibili.com,important
+! Conversion error: name 'marker' is not defined - Original: ||play.google.com/store/apps/*referrer$removeparam=referrer
+! Conversion error: name 'marker' is not defined - Original: ||apps.apple.com/*/app/*referrer$removeparam=referrer
+! Conversion error: name 'marker' is not defined - Original: ||securemetrics.apple.com/b/ss/*maps$image,important
+! Conversion error: name 'marker' is not defined - Original: ||techpowerup.com/__botcheck$xhr
+! Conversion error: name 'marker' is not defined - Original: ||hktvmall.com/yuicombo?$script,removeparam=/_ui/shared/common/js/analytics/with-intersection-track.js
+! Conversion error: name 'marker' is not defined - Original: ||hktvmall.com/_ui/desktop/common/js/uiAnalytics/
+! Conversion error: name 'marker' is not defined - Original: ||hktvmall.com/_ui/shared/common/js/analytics/with-intersection-track.js
+! Conversion error: name 'marker' is not defined - Original: ||hktvmall.com/_ui/shared/common/js/util/jquery.analytics-utils.js
+! Conversion error: name 'marker' is not defined - Original: ||hktvmall.com/yuicombo|$script,1p
+! Conversion error: name 'marker' is not defined - Original: /discourse-fingerprint-$domain=~btt.community
+ericdraken.com##+js(aopr, dataLayer)
+ericdraken.com##^script[async]
+! Conversion error: name 'marker' is not defined - Original: /s/s/js/m/om.js?v=
+! Conversion error: name 'marker' is not defined - Original: ://vip.*/?pge=$image,3p
+! Conversion error: name 'marker' is not defined - Original: ://ply.*/?v=$image,3p
+! Conversion error: name 'marker' is not defined - Original: ||brave.com/static-assets/js/analysis.js
+! Conversion error: name 'marker' is not defined - Original: /images/*/analytics.js$domain=girlsofdesire.org
+! Conversion error: name 'marker' is not defined - Original: ||cl.t3n.de^
+! Conversion error: name 'marker' is not defined - Original: ||c2shb.pubgw.yahoo.com/admax/bid/partners/PBJS
+! Conversion error: name 'marker' is not defined - Original: ||blozoo.info/js/inouttool/
+! Conversion error: name 'marker' is not defined - Original: ||hikari.jiocinema.com/v1/batch^
+! Conversion error: name 'marker' is not defined - Original: ||hikari.jiocinema.com/v1/track^
+linkedin.com##com/redir/redirect?url=http"], ?url).linkedin.href^="https://www[+js(href-sanitizer, a
+utreon.com##+js(no-xhr-if, utreon.com/pl/api/event method:POST)
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[0-9a-z]{7,25}\.com\/v2(?:\/0\/)?(?=[-_0-9a-z]{0,84}[A-Z])(?=[-_a-zA-Z]{0,84}[0-9])[-_0-9a-zA-Z]{54,85}(#\?v=[0-9a-f]{32})?$/$script,xhr,3p,match-case
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[0-9a-z]{7,25}\.com\/(?:assets|build|bundles|chunks|dist|files|j|public|scripts|static)?\/?(?:js\/)?[_0-9a-f]{6,16}\/?[_0-9a-f]{12,120}(?:[-.](?:app|bundle|ma?in|module|prod|index|v\d|vendor))?(?:\.js)?$/$script,3p,match-case,to=com,redirect=noopjs
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[0-9a-z]{7,25}\.com\/[a-z]{0,7}\/?(?:js\/)?[_0-9a-f]{6,16}\/?[_0-9a-f]{20,120}(?:[-.][a-z0-9]{2,6})?(?:\.js)?$/$script,3p,match-case,to=com,header=x-datacenter
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[0-9a-z]{7,25}\.com\/(?:assets|build|bundles|chunks|dist|files|j|public|scripts|static)?\/?(?:js\/)?[_0-9a-z]{6,16}\/?[_0-9a-z]{5,120}(?:[-.](?:app|bundle|ma?in|module|prod|index|v\d|vendor))?(?:\.js)?$/$script,3p,match-case,to=com|~aswpsdkus.com|~chimpstatic.com|~geniuslinkcdn.com|~squareoffs.com,header=via:/, 1\.1 google$/
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[0-9a-z]{7,25}\.com\/(?:assets|build|bundles|chunks|dist|files|j|public|scripts|static)?\/?(?:js\/)?[_0-9a-z]{6,16}\/?[_0-9a-z]{5,120}(?:[-.](?:app|bundle|ma?in|module|prod|index|v\d|vendor))?(?:\.js)?$/$script,3p,match-case,to=com|~aswpsdkus.com|~chimpstatic.com|~geniuslinkcdn.com|~squareoffs.com,header=etag:/^W\/"[0-9a-f]{64}"$/
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[0-9a-z]{7,25}\.com\/(?:(?:assets|build|bundles|chunks|dist|files|j|public|scripts|static)\/(?:js\/)?)?[_0-9a-z]{6,16}\/?[_0-9a-z]{5,120}(?:[-.](?:app|bundle|ma?in|module|prod|index|v\d|vendor))?(?:\.js)?$/$script,3p,match-case,to=com|~aswpsdkus.com|~chimpstatic.com|~geniuslinkcdn.com|~squareoffs.com,redirect=noopjs,ipaddress=/^(3[45]\.\d+\.\d{2,3}\.\d{2,3}|2600:1901:0:[a-f0-9]{3,4}::1)$/
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[0-9a-z]{7,25}\.com\/(?:(?:assets|build|bundles|chunks|dist|files|j|public|scripts|static)\/(?:js\/)?)?[_0-9a-z]{6,16}\/?[_0-9a-z]{5,120}(?:[-.](?:app|bundle|ma?in|module|prod|index|v\d|vendor))?(?:\.js)?$/$script,3p,match-case,redirect=noopjs,to=com|~aswpsdkus.com|~chimpstatic.com|~geniuslinkcdn.com|~squareoffs.com,_____,from=15min.lt|247sports.com|abc17news.com|agrodigital.com|al.com|aliontherunblog.com|allaboutthetea.com|allmusic.com|allthingsthrifty.com|amessagewithabottle.com|artforum.com|artnews.com|awkward.com|barcablaugranes.com|barnsleychronicle.com|bethcakes.com|betweenenglandandiowa.com|bgr.com|blazersedge.com|blogher.com|blu-ray.com|bluegraygal.com|briefeguru.de|brobible.com|cagesideseats.com|cbsnews.com|cbssports.com|celiacandthebeast.com|chaptercheats.com|cleveland.com|clickondetroit.com|commercialobserver.com|competentedigitale.ro|dailydot.com|dailykos.com|dailyvoice.com|deadline.com|decider.com|didyouknowfacts.com|dogtime.com|eater.com|eldiariony.com|fark.com|femestella.com|fmradiofree.com|footwearnews.com|free-power-point-templates.com|freeconvert.com|frogsandsnailsandpuppydogtail.com|funtasticlife.com|fwmadebycarli.com|golfdigest.com|gulflive.com|hollywoodreporter.com|homeglowdesign.com|honeygirlsworld.com|ibtimes.co.in|imgur.com|indiewire.com|intouchweekly.com|jasminemaria.com|kion546.com|knowyourmeme.com|last.fm|lehighvalleylive.com|lettyskitchen.com|lifeandstylemag.com|lifeinleggings.com|lizzieinlace.com|localnews8.com|lonestarlive.com|madeeveryday.com|maidenhead-advertiser.co.uk|mandatory.com|mardomreport.net|masslive.com|melangery.com|mlive.com|mmamania.com|momtastic.com|naszemiasto.pl|nationalpost.com|nbcsports.com|news.com.au|ninersnation.com|nj.com|nothingbutnewcastle.com|nsjonline.com|nypost.com|oregonlive.com|pagesix.com|pennlive.com|playstationlifestyle.net|pravda.sk|robbreport.com|rollingstone.com|sbnation.com|sheknows.com|sneakernews.com|sourcingjournal.com|sport-fm.gr|stylecaster.com|superherohype.com|syracuse.com|tastingtable.com|thecw.com|thedailymeal.com|theflowspace.com|themarysue.com|tokfm.pl|torontosun.com|tvline.com|usmagazine.com|variety.com|wallup.net|weather.com|wimp.com|worldstar.com|worldstarhiphop.com|wwd.com|yourcountdown.to
+zhihu.com##com/rest/wd/common/log/collect method:POST).ksapisrv.+js(no-xhr-if, log-sdk
+! Conversion error: name 'marker' is not defined - Original: ||torimochi.line-apps.com^$image,redirect=1x1.gif
+! Conversion error: name 'marker' is not defined - Original: ||api.bilibili.com/x/internal/gaia-gateway/ExClimbWuzhi$xhr,1p
+! Conversion error: name 'marker' is not defined - Original: ||p.typekit.net/p.css^$css,redirect=noop.css
+! Conversion error: name 'marker' is not defined - Original: ||p.typekit.net/p.css^$css,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|petsafe.com|robertsspaceindustries.com,redirect=noop.css,important
+! Conversion error: name 'marker' is not defined - Original: -telemetry.officeapps.live$ping,xhr
+! Conversion error: name 'marker' is not defined - Original: ||flow.microsoft.com/providers/Internal.Telemetry
+! Conversion error: name 'marker' is not defined - Original: ||client-telemetry.roblox.com^
+! Conversion error: name 'marker' is not defined - Original: ||kemono.party/js/script.js
+! Conversion error: name 'marker' is not defined - Original: /api/click/*?c=$image
+! Conversion error: name 'marker' is not defined - Original: ||cj.dotomi.com^
+! Conversion error: name 'marker' is not defined - Original: ||new-twinks.com^
+! Conversion error: name 'marker' is not defined - Original: ||terperbelomo.info^
+! Conversion error: name 'marker' is not defined - Original: ||thebestoffers4you.net^
+! Conversion error: name 'marker' is not defined - Original: ||trck.eczyl.com^
+! Conversion error: name 'marker' is not defined - Original: ||trcp.gamefantech.com^
+! Conversion error: name 'marker' is not defined - Original: ||turbotrck.art^
+! Conversion error: name 'marker' is not defined - Original: ||track.opt-tds.com^
+! Conversion error: name 'marker' is not defined - Original: ||track.link-tds.com^
+! Conversion error: name 'marker' is not defined - Original: ||freetrckr.com^
+! Conversion error: name 'marker' is not defined - Original: ||news-pewuce.com^
+! Conversion error: name 'marker' is not defined - Original: ||cjewz.com^
+! Conversion error: name 'marker' is not defined - Original: ||chpok.site^
+! Conversion error: name 'marker' is not defined - Original: ||smartaccess.biz^
+! Conversion error: name 'marker' is not defined - Original: ||adonsonlyd.xyz^
+! Conversion error: name 'marker' is not defined - Original: ||adthrive.com^$removeparam,from=~mediaite.com|~a-z-animals.com
+! Conversion error: name 'marker' is not defined - Original: ||cdn.branch.io/branch-latest.min.js$important,domain=nbc.com|pac-12.com
+! Conversion error: name 'marker' is not defined - Original: ||onesignal.com^$domain=blurayufr.xyz|columbian.com|faqwiki.us|freecoursesonline.me|ftuapps.dev|gamersdiscussionhub.com|levelupalone.com|onehack.us|xiaomitools.com
+! Conversion error: name 'marker' is not defined - Original: ||narrativ.com^$domain=androidauthority.com
+! Conversion error: name 'marker' is not defined - Original: ||androidauthority.com/api/locate/
+! Conversion error: name 'marker' is not defined - Original: ||optimizely.com^$domain=mindbodygreen.com
+! Conversion error: name 'marker' is not defined - Original: ||mindbodygreen.com/js/optimizely-$script,1p
+mindbodygreen.com##+js(set-local-storage-item, segmentDeviceId, $remove$)
+! Conversion error: name 'marker' is not defined - Original: ||geoip.cdn.arkadiumhosted.com^$domain=bestforpuzzles.com|charlotteobserver.com|dailygazette.com|independent.co.uk|miamiherald.com|standard.co.uk|word.tips
+! Conversion error: name 'marker' is not defined - Original: *$ping,domain=webnovel.com
+! Conversion error: name 'marker' is not defined - Original: *$xhr,3p,denyallow=github.com|stripe.com|fpjs.pro,domain=fingerprint.com|~dev.fingerprint.com
+! Conversion error: name 'marker' is not defined - Original: ||fingerprint.com^$strict3p,domain=fingerprint.com|~dev.fingerprint.com|~dashboard.fingerprint.com
+! Conversion error: name 'marker' is not defined - Original: ||dashboard.fingerprint.com^$strict3p,xhr,domain=dashboard.fingerprint.com
+~dev.fingerprint.com|fingerprint.com##+js(no-xhr-if, method:POST)
+! Conversion error: name 'marker' is not defined - Original: ||lightboxcdn.com^$domain=androidauthority.com|variety.com
+! Conversion error: name 'marker' is not defined - Original: ||lightboxcdn.com/*/digibox.gif?
+! Conversion error: name 'marker' is not defined - Original: ||lightboxcdn.com/*/jsonp/z?
+! Conversion error: name 'marker' is not defined - Original: /firebase-analytics.js$script,domain=zefoy.com
+zefoy.com##+js(set, firebase.analytics, noopFunc)
+! Conversion error: name 'marker' is not defined - Original: ||firebase.googleapis.com^$domain=hotmediahub.com
+! Conversion error: name 'marker' is not defined - Original: /pmc-plugins/pmc-social-share-bar/*/tracking.js
+! Conversion error: name 'marker' is not defined - Original: /ng.gif?s*&e=$image,strict3p
+bikesales.com.au##src*="optimizely"][content*="/details/"]):upward(1) > script[rel="canonical"]):not([name="canonical"], [^html > head > :is(
+! Conversion error: name 'marker' is not defined - Original: ||telemetry*.transcend.io^
+! Conversion error: name 'marker' is not defined - Original: ||eevblog.com/forum/fp.php
+! Conversion error: name 'marker' is not defined - Original: ||2cnt.net/j0=$image,domain=s4c.cymru
+! Conversion error: name 'marker' is not defined - Original: ||player-api.s4c-cdn.co.uk/analytics/$domain=s4c.cymru
+! Conversion error: name 'marker' is not defined - Original: ||aas.medialaben.no/a/
+! Conversion error: name 'marker' is not defined - Original: ||remp.nv.ua/assets/lib/js/remplib.js
+! Conversion error: name 'marker' is not defined - Original: *$permissions=compute-pressure=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=idle-detection=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=keyboard-map=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=attribution-reporting=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=private-aggregation=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=private-state-token-issuance=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=private-state-token-redemption=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=join-ad-interest-group=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=run-ad-auction=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: *$permissions=browsing-topics=(),from=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/kick\.com\/[0-9A-z]{16}\/[0-9A-z]{16}\?apiKey=/$script,1p,match-case,domain=kick.com
+! Conversion error: name 'marker' is not defined - Original: ||simonzody.com^
+! Conversion error: name 'marker' is not defined - Original: ||tags.tiqcdn.com^$domain=nickjr.com
+! Conversion error: name 'marker' is not defined - Original: ||events.paramount.tech^$redirect=nooptext,domain=nickjr.com
+! Conversion error: name 'marker' is not defined - Original: ||mps.nbcuni.com/images/MPS-STATISTIC-REPORTING.png
+! Conversion error: name 'marker' is not defined - Original: ||ab.blogs.es/abtest.png^$image,3p,domain=xataka.com|trendencias.com,redirect=1x1.gif,important
+! Conversion error: name 'marker' is not defined - Original: ://www.wattpad.com/et?$image
+! Conversion error: name 'marker' is not defined - Original: ||wattpad.com/et*^l=http$doc,urlskip=?l
+@@||track.adtraction.com/*&url=https://www.gog.com/$popup
+! Conversion error: name 'marker' is not defined - Original: ||track.adtraction.com/*^url=https://www.gog.com/$doc,urlskip=?url -blocked
+! Conversion error: name 'marker' is not defined - Original: /t/t?a=*&url=http$doc,to=com|dk,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/[a-zA-Z0-9]{6}\?subId1=[^&]+&u=http/$doc,to=com|io|net,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?u=http/$doc,to=com|io|net,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?url=http/$doc,to=com|io|net,match-case,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/(?:[^.]+\.){2}(?:com|io|net)\/c(?:\/\d+){3}\/?\?.*?&?URL=http/$doc,to=com|io|net,match-case,urlskip=?URL
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/www\.[a-z]+\.(?:com|net)\/click-\d{6,7}-\d{8}\b.*?[?&]url=http/$doc,to=com|net,match-case,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/www\.[a-z]+\.(?:com|net)\/click-\d{6,7}-\d{8}\b.*?[?&]URL=http/$doc,to=com|net,match-case,urlskip=?URL
+! Conversion error: name 'marker' is not defined - Original: /Proxy.ashx?*&GR_URL=http$doc,urlskip=?GR_URL
+! Conversion error: name 'marker' is not defined - Original: ||clicks.trx-hub.com/*^q=http$doc,urlskip=?q
+! Conversion error: name 'marker' is not defined - Original: ||shop-links.co/link*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||prf.hn/click/*/destination:http$doc,urlskip=/\/destination:([^\/]+)/ -uricomponent
+! Conversion error: name 'marker' is not defined - Original: ||7tiv.net/*^u=http$doc,urlskip=?u +https
+! Conversion error: name 'marker' is not defined - Original: ||go.redirectingat.com/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||go.skimresources.com/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||click.linksynergy.com/*^murl=http$doc,urlskip=?murl
+! Conversion error: name 'marker' is not defined - Original: ||bestbuy.7tiv.net/c/*^u=https%3A%2F%2Fwww.bestbuy.com$doc,urlskip=?u -blocked
+! Conversion error: name 'marker' is not defined - Original: /r.cfm*^urllink=$document,urlskip=?urllink +https,to=shareasale-analytics.com|shareasale.com
+! Conversion error: name 'marker' is not defined - Original: ||cc.*.com/v1/otc/*^url=http$doc,to=com,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||click.pstmrk.it/*/$doc,urlskip=/\.pstmrk\.it\/[23][mst]{0,2}\/([^\/?#]+)/ -uricomponent +https
+! Conversion error: name 'marker' is not defined - Original: ||howl.me/link*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||howl.link/link*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||shopping.yahoo.com/rdlw*^gcReferrer=http$doc,urlskip=?gcReferrer
+! Conversion error: name 'marker' is not defined - Original: ||track.flexlinks.com/a.ashx*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||track.flexlinkspro.com/a.ashx*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: /t/*^url=http$doc,urlskip=?url,to=gopjn.com|pjatr.com|pjtra.com|pntra.com|pntrac.com|pntrs.com
+! Conversion error: name 'marker' is not defined - Original: ||wordseed.com/go/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||visit.ws/visit/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||go.uncrate.com/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||llo.to/e/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||events.laylo.com/r/redirect*^link=http$urlskip=?link
+! Conversion error: name 'marker' is not defined - Original: ||streaklinks.com/*/http$doc,urlskip=/\bstreaklinks\.com\/[^\/]+\/https?%3A%2F%2F([^\/?#]+)/ -uricomponent +https
+! Conversion error: name 'marker' is not defined - Original: ||streak-link.com/*/http$doc,urlskip=/\bstreak-link\.com\/[^\/]+\/https?%3A%2F%2F([^\/?#]+)/ -uricomponent +https
+! Conversion error: name 'marker' is not defined - Original: ||app.hive.co/email/elt/*^next=http$doc,urlskip=?next
+! Conversion error: name 'marker' is not defined - Original: ||digidip.net/visit?*url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||action.metaffiliation.com/trk.php*^redir=http$doc,urlskip=?redir
+! Conversion error: name 'marker' is not defined - Original: ||backerkit.com/ahoy/messages/*/click?*url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||rd.bizrate.com/rd*^t=http$doc,urlskip=?t
+! Conversion error: name 'marker' is not defined - Original: ||engage.squarespace-mail.com/r*^u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: /Prod/link-tracker?*redirectUrl=aHR0c$doc,urlskip=?redirectUrl -base64 -uricomponent
+! Conversion error: name 'marker' is not defined - Original: .php?*&p=http$doc,to=awin1.com,urlskip=?p
+! Conversion error: name 'marker' is not defined - Original: .php?*&ued=http$doc,to=awin1.com,urlskip=?ued
+! Conversion error: name 'marker' is not defined - Original: ||x.chip.de/linktrack/button/?url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||de/trck/eclick/*^url=http$doc,to=pvn.mediamarkt.de|pvn.saturn.de,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||mailchimp.com/mctx/clicks?url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||t.mailpgn.com/l/*^fl=http$doc,urlskip=?fl
+! Conversion error: name 'marker' is not defined - Original: ||jsv3.recruitics.com/redirect*^rx_url=http$doc,urlskip=?rx_url
+! Conversion error: name 'marker' is not defined - Original: ||app.adjust.com/*^redirect=http$doc,urlskip=?redirect
+! Conversion error: name 'marker' is not defined - Original: ||app.adjust.com/*^fallback=http$doc,urlskip=?fallback
+! Conversion error: name 'marker' is not defined - Original: ||t.cfjump.com/*^Url=http$doc,urlskip=?Url
+! Conversion error: name 'marker' is not defined - Original: ||clixgalore.com/Lead.aspx*^LP=$doc,urlskip=?LP -uricomponent +https
+! Conversion error: name 'marker' is not defined - Original: ||clixgalore.com/Lead.aspx*^AffDirectURL=$doc,urlskip=?AffDirectURL -uricomponent +https
+! Conversion error: name 'marker' is not defined - Original: ||ojrq.net/p/?return=http$doc,urlskip=?return
+! Conversion error: name 'marker' is not defined - Original: ||d.agkn.com/pixel/*^l1=http$doc,urlskip=?l1
+! Conversion error: name 'marker' is not defined - Original: ||demdex.net/*^d_rd=http$doc,urlskip=?d_rd
+! Conversion error: name 'marker' is not defined - Original: ||api.bam-x.com/api/v1/clickmate/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||valuecommerce.com/servlet/*^vc_url=http$doc,urlskip=?vc_url
+! Conversion error: name 'marker' is not defined - Original: ||valuecommerce.com/resolve/*^u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: ||valuecommerce.ne.jp/cgi-bin/*^vc_url=http$doc,urlskip=?vc_url
+! Conversion error: name 'marker' is not defined - Original: ||affiliate.shopping.yahoo.co.jp/entry*^vc_url=http$doc,urlskip=?vc_url
+! Conversion error: name 'marker' is not defined - Original: ||tradedoubler.com/click*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||redir.tradedoubler.com/projectr/?_td_deeplink=http$doc,urlskip=?_td_deeplink
+! Conversion error: name 'marker' is not defined - Original: ||track.webgains.com/click.html*^wgtarget=http$doc,urlskip=?wgtarget
+! Conversion error: name 'marker' is not defined - Original: ||nordstrom.com/Linkshare*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||sephora.com/affiliates.jsp*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||nutribullet.com/t/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||getprice.com.au/prodhits.aspx*^link=http$doc,urlskip=?link
+! Conversion error: name 'marker' is not defined - Original: ||c.pepperjamnetwork.com/click*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||avantlink.com/click.php*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||narrativ.com/api/v0/client_redirect/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||queue.ulta.com/*^t=http$doc,urlskip=?t
+! Conversion error: name 'marker' is not defined - Original: ||click.icptrack.com/icp/relay.php*^destination=http$doc,urlskip=?destination
+! Conversion error: name 'marker' is not defined - Original: ||track.effiliation.com/servlet/effi.redir*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||tradeinn.com/ts/*^trg=http$doc,urlskip=?trg
+! Conversion error: name 'marker' is not defined - Original: ||fsx.i-run.fr/*^redir=http$doc,urlskip=?redir
+! Conversion error: name 'marker' is not defined - Original: ||mcpedl.com/leaving/?url=http$doc,urlskip=?url +https
+! Conversion error: name 'marker' is not defined - Original: ||c212.net/c/link/*^u=http$doc,urlskip=?u +https
+threads.net##is_linkshim_supported).2.][.define.__bbox.0.3.0.+js(json-prune, require
+! Conversion error: name 'marker' is not defined - Original: ||l.threads.net/?u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: ||search.app^*link=http$doc,urlskip=?link
+bing.com##+js(href-sanitizer, a[href^="/rebates/welcome?url=http"], ?url)
+! Conversion error: name 'marker' is not defined - Original: ||bing.com/ck/a*^u=a1aHR0c$doc,urlskip=/[?&]u=a1(aHR0c[^&#]+)/ -safebase64
+! Conversion error: name 'marker' is not defined - Original: ||bing.com/rebates/welcome?url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||bing.com/alink/link?url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||ds1.nl/redirect/*^dai_url=http$doc,urlskip=?dai_url
+! Conversion error: name 'marker' is not defined - Original: ||c.next2.io/*^link=http$doc,urlskip=?link
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/(?:www\.anrdoezrs\.net|cj\.dotomi\.com)\/links(?:-t)?\/\d+\/sid\/[^\/]+\/http/$doc,to=cj.dotomi.com|www.anrdoezrs.net,urlskip=/\/sid\/[^\/]+\/(http[^?]+)/
+! Conversion error: name 'marker' is not defined - Original: ||anrdoezrs.net/links/*/type/dlg/http$doc,urlskip=/\/dlg\/(http[^?]+)/
+! Conversion error: name 'marker' is not defined - Original: /tradetracker/?tt=*&r=http$doc,urlskip=?r
+! Conversion error: name 'marker' is not defined - Original: ||r.bttn.io/?*&btn_pub_ref=*&btn_url=http$doc,urlskip=?btn_url
+! Conversion error: name 'marker' is not defined - Original: ||r.bttn.io/?*&btn_pub_ref=*&btn_desktop_url=http$doc,urlskip=?btn_desktop_url
+! Conversion error: name 'marker' is not defined - Original: ||prsm1.com/r?url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||link.theskimm.com/click/*/aHR0c$doc,urlskip=/\/click\/[^\/]+\/(aHR0c[^\/]+)/ -base64
+! Conversion error: name 'marker' is not defined - Original: ||redirect.viglink.com/*^ourl=http$doc,urlskip=?ourl
+! Conversion error: name 'marker' is not defined - Original: ||redirect.viglink.com/*^u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: ||affportal.bhphoto.com/dl/redventures/*^u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: ||dlk.ivoox.com/dlk/*^link=http$doc,urlskip=?link
+! Conversion error: name 'marker' is not defined - Original: ||slickdeals.net/i.php?*&u2=http$doc,urlskip=?u2
+! Conversion error: name 'marker' is not defined - Original: ||amazon.com/gp/redirect.html?*&location=http$doc,urlskip=?location
+! Conversion error: name 'marker' is not defined - Original: ||link.sylikes.com/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||sofi.com/atr/p/v1/a?u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: ||justwatch.com/a?*^r=http$doc,urlskip=?r
+! Conversion error: name 'marker' is not defined - Original: ||click.trafficguard.ai/*^lpurl=http$doc,urlskip=?lpurl
+! Conversion error: name 'marker' is not defined - Original: ||awstrack.me/L0/http$doc,urlskip=/\/L0\/(http[^\/?#]+)/ -uricomponent
+! Conversion error: name 'marker' is not defined - Original: ||gate.sc^*url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||page.link/*^ofl=http$doc,urlskip=?ofl
+! Conversion error: name 'marker' is not defined - Original: ||invol.co/aff_m?*url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||af.moshimo.com/af/c/click*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||pub.a8.net/cgi-bin/redirect?ar=http$doc,urlskip=?ar
+! Conversion error: name 'marker' is not defined - Original: ||royalroad.com/a/r?campaign=*&url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||duckduckgo.com/l/?uddg=http$doc,urlskip=?uddg
+! Conversion error: name 'marker' is not defined - Original: ||link.email.boyfriendtv.com/link/*/aHR0c$doc,urlskip=/link\.email\.boyfriendtv\.com\/link\/[^\/]+\/(aHR0c[^\/?#]+)/ -safebase64 +https
+! Conversion error: name 'marker' is not defined - Original: ||mjt.lu/lnk/*/aHR0c$doc,urlskip=/\/lnk\/.+?\/(aHR0c[^\/?#]+)/ -safebase64
+! Conversion error: name 'marker' is not defined - Original: ||link.athome.fandango.com/click/*/aHR0c$doc,urlskip=/\/click\/[^\/]+\/(aHR0c[^\/?#]+)/ -base64
+! Conversion error: name 'marker' is not defined - Original: ||tc.tradetracker.net/*^u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: ||spreaker.onelink.me/*&af_web_dp=http$doc,urlskip=?af_web_dp
+! Conversion error: name 'marker' is not defined - Original: ||onelink.me/*&af_web_dp=http$doc,urlskip=?af_web_dp
+! Conversion error: name 'marker' is not defined - Original: ||exactag.com/cl.aspx?*url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||deeplink.musescore.com/redirect?to=http$doc,urlskip=?to
+musescore.com##com/redirect?to=http"], ?to).musescore.href^="https://deeplink[+js(href-sanitizer, a
+musescore.com##+js(set-local-storage-item, /^rt_/, $remove$)
+! Conversion error: name 'marker' is not defined - Original: ||laylo.co/e/*^url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||comohoy.com/view/out.html?url1=aHR0c$doc,urlskip=?url1 -base64
+duckduckgo.com|html.duckduckgo.com|lite.duckduckgo.com##com/l/?uddg="], ?uddg).href^="//duckduckgo[+js(href-sanitizer, a
+starstyle.com##href*="&url=http"], ?url)[com/"].skimresources.href^="https://go[+js(href-sanitizer, a
+insidehook.com|nbcnews.com|pcpartpicker.com|space.com|tomshardware.com##href*="&murl=http"], ?murl)[href*="link?id="][com/"].linksynergy.href^="https://click[+js(href-sanitizer, a
+babe8.net|beeg.porn|fap18.net|fuck55.net|gofucker.com|sexu.tv|vid123.net|xxxmom.net##href^="/vp/download/goto/?u=http"], ?u)[href^="/vp/player/to/?u=http"]\, a[+js(href-sanitizer, a
+! Conversion error: name 'marker' is not defined - Original: /vp/player/to/?u=http$doc,urlskip=?u
+! Conversion error: name 'marker' is not defined - Original: /vp/download/goto/?u=http$doc,urlskip=?u
+adultdvdparadise.com|bananamovies.org|freeomovie.info|fullxxxmovies.me|losporn.org|mangoparody.com|mangoporn.co|mangoporn.net|netflixporno.net|onstreams.net|pandamovie.in|pandamovie.info|pandamovies.me|pandamovies.org|pandamovies.pw|playpornfree.xyz|pornkino.cc|pornwatch.ws|pornwish.org|speedporn.net|speedporn.pw|streamporn.li|streamporn.pw|watchfreexxx.net|watchpornfree.info|watchpornx.com|watchxxxfree.pw|xopenload.me|xopenload.net|xopenload.pw|xtapes.me|xxxparodyhd.net|xxxscenes.net|xxxstream.me|youwatchporn.com##xyz/link?link=http"], ?link).href^="https://drivevideo[+js(href-sanitizer, a
+nowinstock.net##href*="&murl="], ?murl)[com/deeplink?id="].linksynergy.href^="https://click[+js(href-sanitizer, a
+nowinstock.net##href*="&url=http"], ?url)[href*="?"][+js(href-sanitizer, a
+nowinstock.net##href*="&u=http"], ?u)[href*="?"][+js(href-sanitizer, a
+paypal.com##href*="?fallback=http"], ?fallback)[com/"].adjust.href^="https://app[+js(href-sanitizer, a
+elotrolado.net##com?url=http"], ?url).redirectingat.href^="https://go[+js(href-sanitizer, a
+tube188.com##href*="&url=http"], ?url)[php?"].href^="/check[+js(href-sanitizer, a
+tomshardware.com##href*="&murl=http"], ?murl)[com/deeplink?id="].linksynergy.href^="https://click[+js(href-sanitizer, a
+disqus.com##title])[title^="http"], [us/url?url="].href^="https://disq[+js(href-sanitizer, a
+disqus.com##us/?url=http"], ?url).href^="https://disq[+js(href-sanitizer, a
+disqus.com##data-link-out]:remove-attr(data-link-out)[href][a
+steamcommunity.com##com/linkfilter/?url=http"], ?url).href^="https://steamcommunity[+js(href-sanitizer, a
+steamcommunity.com##com/linkfilter/?u=http"], ?u).href^="https://steamcommunity[+js(href-sanitizer, a
+colab.research.google.com|google.com##com/corgiredirector?site=http"], ?site).google.research.href^="https://colab[+js(href-sanitizer, a
+xda-developers.com##href*="&url=http"], ?url)[co/link/?"].href^="https://shop-links[+js(href-sanitizer, a
+xda-developers.com##href*="ourl=http"], ?ourl)[com/?"].viglink.href^="https://redirect[+js(href-sanitizer, a
+isthereanydeal.com##href*="?URL=http"], ?URL)[com/click-"].jdoqocy.href^="http://www[+js(href-sanitizer, a
+isthereanydeal.com##href*="&url=http"], ?url)[com/t/t?"].adtraction.href^="https://track[+js(href-sanitizer, a
+metager.org##org/partner/r?link=http"], ?link).href^="https://metager[+js(href-sanitizer, a
+idnes.cz##+js(aeld, click, pingUrl)
+idnes.cz##+js(aeld, mousedown, scoreUrl)
+slickdeals.net##href*="url=http"], ?url)[com"].redirectingat.href*="go[+js(href-sanitizer, a
+slickdeals.net##href*="u2=http"], ?u2)[net/?"].href^="https://slickdeals[+js(href-sanitizer, a
+dk.pcpartpicker.com|pcpartpicker.com##href*="deeplink=http"], ?deeplink)[dk/"].adservicemedia.href^="https://online[+js(href-sanitizer, a
+justwatch.com##href*="&r=http"]', ?r)[com/a?"].justwatch.href*="[+js(href-sanitizer, 'a
+variety.com##net"], ?q?u).href*="bn5x[com/"].trx-hub.href^="https://clicks[+js(href-sanitizer, a
+engadget.com##href*="gcReferrer=http"], ?gcReferrer)[com/rdlw?"].yahoo.href^="https://shopping[+js(href-sanitizer, a
+cnet.com##updateModifiedCommerceUrl, noopFunc).prototype.+js(set, Object
+cnet.com|dogfoodadvisor.com|hunker.com|insidehook.com|nbcnews.com|notebookcheck.net|pcgamingwiki.com|pcpartpicker.com|purewow.com|sheknows.com|space.com|streetinsider.com|tomshardware.com|zdnet.com##com/dl/redventures/?"])', ?u).bhphoto.href^="https://affportal[href*="?subId1="],[net/c/"],.href*="[io/c/"],.href*="[com/c/"],.href*="[href*="u=http"]:is([href*="?"][+js(href-sanitizer, 'a
+androidauthority.com|cnet.com|hunker.com|insidehook.com|jljbacktoclassic.com|nbcnews.com|otherweb.com|pcgamingwiki.com|pcpartpicker.com|purewow.com|space.com|sport-passion.fr|tomshardware.com|zdnet.com##dk/t/t?a="])', ?url).href*="[com/t/t?a="],a.href*="[net/click-"],a.href*="[com/click-"],.href*="[com/r?"],.prsm1.href*="[com/t/"],.href*="["].href^="https://www[ashx?"],.com/a.href*="[redir?"],.com/servlet/effi.effiliation.href^="https://track[co/link"],.href^="https://shop-links[co/aff_m?"],.href^="https://invol[com"],.redirectingat.href^="https://go[com"],.skimresources.href^="https://go[com/v1/otc/"],.href*="["].href^="https://cc[href*="url=http"]:is([href*="?"][+js(href-sanitizer, 'a
+space.com|tomshardware.com|zdnet.com##href*="GR_URL=http"], ?GR_URL)[ashx?"].href*="/Proxy[+js(href-sanitizer, a
+windowscentral.com##href*="&url=http"], ?url)[com/"].redirectingat.href^="https://go[+js(href-sanitizer, a
+insidehook.com|nbcnews.com|shutupandtakemyyen.com|space.com|thisiswhyimbroke.com|xda-developers.com##href*="ued=http"], ?ued)[php?"].href*="[com/"].href*="awin1[+js(href-sanitizer, a
+insidehook.com|nbcnews.com|shutupandtakemyyen.com|space.com|thisiswhyimbroke.com|xda-developers.com##href*="p=http"], ?p)[php?"].href*="[com/"].href*="awin1[+js(href-sanitizer, a
+forums.redflagdeals.com|redflagdeals.com##href*="url=http"], ?url)[com/t/"].href*="[autolinker_link.+js(href-sanitizer, a
+sport-passion.fr##href*="redir=http"], ?redir)[fr/?"].i-run.href^="https://fsx[rel="sponsored nofollow"][+js(href-sanitizer, a
+sport-passion.fr##href*="trg=http"], ?trg)[com/ts/"].tradeinn.href*="[rel="sponsored nofollow"][+js(href-sanitizer, a
+insidehook.com|jljbacktoclassic.com##href*="urllink=http"], ?urllink)[cfm?"].com/r.href*="[+js(href-sanitizer, a
+soundcloud.com##href*="?url=http"], ?url)[sc"].href^="https://gate[+js(href-sanitizer, a
+slant.co##getAttribute, 0, json:"class", condition, data-direct-ad).prototype.+js(trusted-replace-argument, HTMLAnchorElement
+! Conversion error: name 'marker' is not defined - Original: ||go.isclix.com/deep_link/*?url=http$doc,urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||static.accesstrade.vn/js/atsmarttag.min.js
+voz.vn##data-proxy-href]:remove-attr(data-proxy-href)[href][link--external.link.a
+spreaker.com##href*="&af_web_dp=http"], ?af_web_dp)[me/"].onelink.href^="https://spreaker[+js(href-sanitizer, a
+! Conversion error: name 'marker' is not defined - Original: ||cdn.digg.com/fragments/homepage/static/view-frontpage.js
+! Conversion error: name 'marker' is not defined - Original: /detroitchicago/dpv.gif?$image
+! Conversion error: name 'marker' is not defined - Original: /detroitchicago/imp.gif$ping
+! Conversion error: name 'marker' is not defined - Original: /wpm@*/web-pixel-
+! Conversion error: name 'marker' is not defined - Original: /shopifycloud/media-analytics/v*/analytics.js
+beaumontenterprise.com|chron.com|ctinsider.com|ctpost.com|expressnews.com|houstonchronicle.com|lmtonline.com|middletownpress.com|mrt.com|newstimes.com|nhregister.com|registercitizen.com|sfchronicle.com|stamfordadvocate.com|thehour.com|timesunion.com##+js(cookie-remover, realm.cookiesAndJavascript)
+heavyfetish.com##+js(set, flashvars.event_reporting, '')
+heavyfetish.com##+js(cookie-remover, kt_qparams)
+heavyfetish.com##+js(cookie-remover, kt_referer)
+nypost.com|pagesix.com##trackingId).trackingId user.+js(json-prune, dataLayer
+columbian.com|pagesix.com##+js(cookie-remover, blaize_tracking_id)
+factable.com##+js(cookie-remover, akaclientip)
+factable.com##+js(cookie-remover, hive_geoloc)
+bing.com|msn.com|skype.com|web.skype.com##+js(cookie-remover, MicrosoftApplicationsTelemetryDeviceId)
+skype.com|web.skype.com##+js(cookie-remover, MicrosoftApplicationsTelemetryFirstLaunchTime)
+fandom.com##+js(set-cookie, Geo, OK)
+clickorlando.com##+js(set-cookie, bitmovin_analytics_uuid, OK)
+1und1.de##+js(cookie-remover, /optimizelyEndUserId|s_fid|sc_tcr|s_cc/)
+1und1.de##+js(set-local-storage-item, /optimizely_data|tealium_timing/, $remove$)
+imgur.com##has_opted_out_tracking, trueFunc).prototype.+js(set, Object
+boundless.com##+js(cookie-remover, _boundless_tracking_id)
+community.fortinet.com|fortinet.com##+js(remove-cookie, /LithiumVisitor|ValueSurveyVisitorCount|VISITOR_BEACON/)
+*.|camhub.cc|heavyfetish.com|kissjav.*|severeporn.com|shemale6.com|watchporn.to##+js(cookie-remover, kt_ips)
+bizjournals.com|businessinsider.de|computerbild.de##+js(remove-cookie, /^(_pc|cX_)/, when, scroll keydown)
+bizjournals.com##+js(remove-cookie, /^AMCVS?_/)
+disqus.com##+js(remove-cookie, disqus_unique, when, scroll keydown)
+disqus.com##+js(trusted-set-cookie, disqus_unique, 0, , , domain, disqus.com)
+ozlosleep.com##+js(remove-cookie, /_shopify_(y|sa_)/, when, scroll keydown)
+naszemiasto.pl##pl).naszemiasto.+js(trusted-set-cookie, _sharedid, , 0, , domain, 
+worldstar.com##+js(remove-cookie, /ana_client_session_id|wshh_uid/)
+cbsnews.com##+js(remove-cookie, fly_vid, when, scroll keydown)
+cbsnews.com##+js(set-local-storage-item, /fmscw_resp|intercom/, $remove$)
+cbsnews.com##fms-params, $remove$).features.+js(set-session-storage-item, CBSNEWS
+diariovasco.com##+js(remove-cookie, /^(ev|vocuser)_/, when, scroll keydown)
+lifehacker.com##+js(remove-cookie, gtagSessionId)
+680thefan.com##+js(set-local-storage-item, uuid, $remove$)
+katu.com##+js(remove-cookie, /^_pubcid|sbgtvNonce|SUID/)
+katu.com##+js(set-local-storage-item, /^uw-/, $remove$)
+! Conversion error: name 'marker' is not defined - Original: $removeparam=gbraid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=wbraid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=gclsrc
+! Conversion error: name 'marker' is not defined - Original: $removeparam=gclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=gad_source
+! Conversion error: name 'marker' is not defined - Original: $removeparam=_gl
+! Conversion error: name 'marker' is not defined - Original: $removeparam=dclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=srsltid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=fbclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=fb_action_ids
+! Conversion error: name 'marker' is not defined - Original: $removeparam=fb_action_types
+! Conversion error: name 'marker' is not defined - Original: $removeparam=fb_comment_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=fb_ref
+! Conversion error: name 'marker' is not defined - Original: $removeparam=fb_source
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ymclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ysclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=yclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=msclkid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=wickedid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=twclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=__hsfp
+! Conversion error: name 'marker' is not defined - Original: $removeparam=__hssc
+! Conversion error: name 'marker' is not defined - Original: $removeparam=__hstc
+! Conversion error: name 'marker' is not defined - Original: $removeparam=_hsenc
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_acc
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_ad
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_cam
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_grp
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_kw
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_la
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_mt
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_net
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_ol
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_src
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_tgt
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsa_ver
+! Conversion error: name 'marker' is not defined - Original: $removeparam=hsCtaTracking
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mc_eid
+! Conversion error: name 'marker' is not defined - Original: $doc,removeparam=s_cid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=vero_conv
+! Conversion error: name 'marker' is not defined - Original: $removeparam=vero_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=rb_clickid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oly_anon_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=_openstat
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ml_subscriber
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ml_subscriber_hash
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_k
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_lk
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_d
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_c
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_ck
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_ids
+! Conversion error: name 'marker' is not defined - Original: $removeparam=oft_sk
+! Conversion error: name 'marker' is not defined - Original: $removeparam=bsft_clkid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=bsft_eid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=bsft_mid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=bsft_uid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=bsft_aaid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=bsft_ek
+! Conversion error: name 'marker' is not defined - Original: $removeparam=guce_referrer
+! Conversion error: name 'marker' is not defined - Original: $removeparam=guce_referrer_sig
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_campaign
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_cid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_content
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_group
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_keyword
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_medium
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_placement
+! Conversion error: name 'marker' is not defined - Original: $removeparam=mtm_source
+! Conversion error: name 'marker' is not defined - Original: $removeparam=pk_campaign
+! Conversion error: name 'marker' is not defined - Original: $removeparam=pk_medium
+! Conversion error: name 'marker' is not defined - Original: $removeparam=pk_source
+! Conversion error: name 'marker' is not defined - Original: $removeparam=pk_cid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=vgo_ee
+! Conversion error: name 'marker' is not defined - Original: $removeparam=cx_click
+! Conversion error: name 'marker' is not defined - Original: $removeparam=cx_recsOrder
+! Conversion error: name 'marker' is not defined - Original: $removeparam=cx_recsWidget
+! Conversion error: name 'marker' is not defined - Original: $removeparam=gps_adid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=unicorn_click_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=adjust_creative
+! Conversion error: name 'marker' is not defined - Original: $removeparam=adjust_tracker_limit
+! Conversion error: name 'marker' is not defined - Original: $removeparam=adjust_tracker
+! Conversion error: name 'marker' is not defined - Original: $removeparam=adjust_adgroup
+! Conversion error: name 'marker' is not defined - Original: $removeparam=adjust_campaign
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ir_campaignid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ir_adid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ir_partnerid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=_kx
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_campaign
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_campaign_type
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_creation
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_emailtype
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_link
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_link_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_link_origin
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_link_type
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_medium
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_ptr_name
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_recipient_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_recipient_list
+! Conversion error: name 'marker' is not defined - Original: $removeparam=at_send_date
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ss_email_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=et_rid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=bbeml
+! Conversion error: name 'marker' is not defined - Original: $removeparam=_branch_match_id
+! Conversion error: name 'marker' is not defined - Original: $removeparam=_branch_referrer
+! Conversion error: name 'marker' is not defined - Original: $removeparam=_bhlid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=sms_click
+! Conversion error: name 'marker' is not defined - Original: $removeparam=sms_source
+! Conversion error: name 'marker' is not defined - Original: $removeparam=sms_uph
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ttclid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=sc_customer
+! Conversion error: name 'marker' is not defined - Original: $removeparam=sc_eh
+! Conversion error: name 'marker' is not defined - Original: $removeparam=sc_uid
+! Conversion error: name 'marker' is not defined - Original: $removeparam=asc_campaign,domain=aboutamazon.com|amazon.*|amzn.to
+! Conversion error: name 'marker' is not defined - Original: $removeparam=asc_refurl,domain=aboutamazon.com|amazon.*|amzn.to
+! Conversion error: name 'marker' is not defined - Original: $removeparam=asc_source,domain=aboutamazon.com|amazon.*|amzn.to
+! Conversion error: name 'marker' is not defined - Original: ||youtube.com^$removeparam=pp
+! Conversion error: name 'marker' is not defined - Original: ||youtu.be^$removeparam=si
+! Conversion error: name 'marker' is not defined - Original: ://youtube.com/@*?si=$doc,removeparam=si
+! Conversion error: name 'marker' is not defined - Original: $removeparam=refsrc,domain=twitter.com|x.com
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ref_src,domain=twitter.com|x.com
+! Conversion error: name 'marker' is not defined - Original: $removeparam=ref_url,domain=twitter.com|x.com
+! Conversion error: name 'marker' is not defined - Original: $removeparam=cxt,domain=twitter.com|x.com
+! Conversion error: name 'marker' is not defined - Original: $removeparam=s,domain=twitter.com|x.com
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=ssspo
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=sssrc
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=ssuid
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=mkevt
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=mkcid
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=_trkparms
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=amdata
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=mkrid
+! Conversion error: name 'marker' is not defined - Original: ||www.ebay.$removeparam=campid
+! Conversion error: name 'marker' is not defined - Original: ||instagram.com^$removeparam=ig_rid
+! Conversion error: name 'marker' is not defined - Original: ||instagram.com^$removeparam=igsh
+! Conversion error: name 'marker' is not defined - Original: $removeparam=igshid,domain=instagram.com|threads.net
+! Conversion error: name 'marker' is not defined - Original: ||msn.com^$doc,removeparam=ocid
+! Conversion error: name 'marker' is not defined - Original: ||msn.com^$doc,removeparam=pc
+! Conversion error: name 'marker' is not defined - Original: ||msn.com^$doc,removeparam=cvid
+! Conversion error: name 'marker' is not defined - Original: ||msn.com^$doc,removeparam=ei
+! Conversion error: name 'marker' is not defined - Original: ||msn.com^$doc,removeparam=vid
+! Conversion error: name 'marker' is not defined - Original: ||open.spotify.com^$removeparam=referral
+! Conversion error: name 'marker' is not defined - Original: ||open.spotify.com^$removeparam=si
+! Conversion error: name 'marker' is not defined - Original: ||reddit.com^$removeparam=rdt,doc
+! Conversion error: name 'marker' is not defined - Original: ||kochava.com^$3p
+! Conversion error: name 'marker' is not defined - Original: ||control.kochava.com^$removeparam=_rt
+! Conversion error: name 'marker' is not defined - Original: ||control.kochava.com^$removeparam=device_id
+! Conversion error: name 'marker' is not defined - Original: ||control.kochava.com^$removeparam=ftag
+! Conversion error: name 'marker' is not defined - Original: ||control.kochava.com^$removeparam=ko_exchange
+! Conversion error: name 'marker' is not defined - Original: ||control.kochava.com^$removeparam=network_id
+! Conversion error: name 'marker' is not defined - Original: ||control.kochava.com^$removeparam=site_id
+! Conversion error: name 'marker' is not defined - Original: ||control.kochava.com^$removeparam=/^utm_/
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=eid0
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=eit0
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=media
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=prnd
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=rnd
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=sid
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=usi
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=widgetId
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=experienceId
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=experienceActionId
+! Conversion error: name 'marker' is not defined - Original: ||api.cxense.com/public/widget/data^$removeparam=trackingId
+@@||web.archive.org/*/http$removeparam
+@@||urldefense.com^$removeparam
+! Conversion error: name 'marker' is not defined - Original: /dp/*/ref=$doc,uritransform=/\/ref=[^\/?#]+//,to=www.amazon.*
+! Conversion error: name 'marker' is not defined - Original: ||amazon.com/s/ref=$doc,uritransform=/\/ref=[^\/?#]+//
+! Conversion error: name 'marker' is not defined - Original: /gp/*/ref=$doc,uritransform=/\/ref=[^\/?#]+//,to=www.amazon.*
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/www\.primevideo\.com\/(?:detail|help|offers)[^=]*?\/ref=/$doc,to=primevideo.com,uritransform=/\/ref=[^\/?#]+//
+! Conversion error: name 'marker' is not defined - Original: ||bhphotovideo.com/c/product/*.html/$doc,uritransform=/\.html\/[^?#]+/.html/
+natgeotv.com##+js(no-xhr-if, /VisitorAPI|AppMeasurement/)
+natgeotv.com##+js(set, Visitor, {})
+! Conversion error: name 'marker' is not defined - Original: ||fichub.com/plugins/adobe/lib/$xhr,domain=natgeotv.com,important
+! Conversion error: name 'marker' is not defined - Original: ||house.comikey.com/unw.gif?$image,1p
+! Conversion error: name 'marker' is not defined - Original: ||googletagmanager.com/gtag/js$domain=starblast.io,important
+! Conversion error: name 'marker' is not defined - Original: ||cdn.cuty.io/fps.js$script
+lenovo.com|www.lenovo.com##+js(trusted-replace-argument, history.replaceState, 2, "''", condition, ?orgRef)
+! Conversion error: name 'marker' is not defined - Original: ||upera.shop/ref/$doc,uritransform=/^\/ref\/[^\/]+//
+androidpolice.com|makeuseof.com|movieweb.com|xda-developers.com##+js(cookie-remover, /articlesRead|previousPage/)
+! Conversion error: name 'marker' is not defined - Original: /^https?:\/\/chatgpt\.com\/ces\/v1\/[a-z]$/$xhr,domain=chatgpt.com|openai.com|sora.com,method=post
+airtel.in##+js(no-xhr-if, analytics/bulk-pixel)
+elevenlabs.io##+js(set-local-storage-item, IIElevenLabsDubbingResult, $remove$)
+chollometro.com##title])[title^="https://"], [com/visit/"].chollometro.href*="https://www[+js(href-sanitizer, a
+dealabs.com##title])[title^="https://"], [com/visit/"].dealabs.href*="https://www[+js(href-sanitizer, a
+hotukdeals.com##title])[title^="https://"], [com/visit/"].hotukdeals.href*="https://www[+js(href-sanitizer, a
+mydealz.de##title])[title^="https://"], [de/visit/"].mydealz.href*="https://www[+js(href-sanitizer, a
+nl.pepper.com|pepper.com##title])[title^="https://"], [com/visit/"].pepper.href*="https://nl[+js(href-sanitizer, a
+pepper.it##title])[title^="https://"], [it/visit/"].pepper.href*="https://www[+js(href-sanitizer, a
+pepper.pl##title])[title^="https://"], [pl/visit/"].pepper.href*="https://www[+js(href-sanitizer, a
+pepper.ru##title])[title^="https://"], [ru/visit/"].pepper.href*="https://www[+js(href-sanitizer, a
+preisjaeger.at##title])[title^="https://"], [at/visit/"].preisjaeger.href*="https://www[+js(href-sanitizer, a
+promodescuentos.com##title])[title^="https://"], [com/visit/"].promodescuentos.href*="https://www[+js(href-sanitizer, a
+pelando.com.br##br/api/redirect?url="], ?url).com.pelando.href*="https://www[+js(href-sanitizer, a
+proboards.com|winclassic.net##+js(rmnt, script, vglnk)
+proboards.com|winclassic.net##^script:has-text(vglnk)
+! Conversion error: name 'marker' is not defined - Original: ||res.office365.com/footprint/v*/scripts/fp-min.js$script
+! Conversion error: name 'marker' is not defined - Original: ||res.office365.com/footprint/v*/scripts/fpconfig.json$script
+! Conversion error: name 'marker' is not defined - Original: ||atmrum.net/rum.js$script
+! Conversion error: name 'marker' is not defined - Original: ||atmrum.net/client/v*/atm/fpv*.min.js$script
+! Conversion error: name 'marker' is not defined - Original: ||atmrum.net/conf/v*/atm/fpconfig.min.json$script
+! Conversion error: name 'marker' is not defined - Original: ||config.fp.measure.office.com/conf/v*/*/fpconfig.min.json$script
+! Conversion error: name 'marker' is not defined - Original: ||fp.msedge.net/conf/v*/asgw/fpconfig.min.json?monitorId=asgw$script
+! Conversion error: name 'marker' is not defined - Original: /apc/trans.gif
+! Conversion error: name 'marker' is not defined - Original: /apc/r.gif
+! Conversion error: name 'marker' is not defined - Original: ||atmrum.net/report/v*/atm/r.gif
+! Conversion error: name 'marker' is not defined - Original: ||fp.msedge.net/r.gif
+! Conversion error: name 'marker' is not defined - Original: ||odinvzc.azureedge.net/apc/trans.gif
+! Conversion error: name 'marker' is not defined - Original: ||bi-tracker-cn.rivergame.net/event/tracker$xhr,redirect=noop.txt
+! Conversion error: name 'marker' is not defined - Original: /n/images/su?info$xhr,1p
+! Conversion error: name 'marker' is not defined - Original: ://log.$image,1p,domain=znews.vn|zingnews.vn
+! Conversion error: name 'marker' is not defined - Original: ||api.baomoi.com/a465/
+coursera.org##+js(no-fetch-if, eventing)
+! Conversion error: name 'marker' is not defined - Original: ||coursera.org/*/eventing/
+! Conversion error: name 'marker' is not defined - Original: ||rambler.ru/*#rcmrclid=$uritransform=/#rcmrclid=.*/#/
+! Conversion error: name 'marker' is not defined - Original: ||cmp.*.no^*/metrics/$important
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/mudah\.my\/[a-zA-Z0-9]{16}\/[a-zA-Z0-9]{16}\?apiKey=/$script,1p,domain=mudah.my
+! Conversion error: name 'marker' is not defined - Original: ||youtube.com/redirect?*^q=http$urlskip=?q +https
+! Conversion error: name 'marker' is not defined - Original: ||view.mngusr.com^$domain=chapmanganato.to|manganato.com
+! Conversion error: name 'marker' is not defined - Original: ||analytics.strapi.io^
+! Conversion error: name 'marker' is not defined - Original: ||royalroad.com/dist/sentry.js$script
+streamin.me##^responseheader(set-cookie)
+! Conversion error: name 'marker' is not defined - Original: ||api.modrinth.com/analytics/
+dev.to##+js(cookie-remover, ahoy_visitor)
+dev.to##+js(cookie-remover, ahoy_visit)
+! Conversion error: name 'marker' is not defined - Original: ||partner.awscconsumerinfo.autotrader.com/*/beacon/
+advocate-news.com|akronnewsreporter.com|bocopreps.com|bostonherald.com|broomfieldenterprise.com|brushnewstribune.com|buffzone.com|burlington-record.com|canoncitydailyrecord.com|chicagotribune.com|chicoer.com|coloradodaily.com|coloradohometownweekly.com|courant.com|dailybreeze.com|dailybulletin.com|dailycamera.com|dailydemocrat.com|dailyfreeman.com|dailylocal.com|dailynews.com|dailypress.com|dailytribune.com|delcotimes.com|denverpost.com|eastbaytimes.com|eptrail.com|excelsiorcalifornia.com|fortmorgantimes.com|greeleytribune.com|journal-advocate.com|julesburgadvocate.com|lamarledger.com|lowellsun.com|macombdaily.com|mainlinemedianews.com|marinij.com|mcall.com|mendocinobeacon.com|mercurynews.com|montereyherald.com|morningjournal.com|nashobavalleyvoice.com|news-herald.com|nydailynews.com|ocregister.com|oneidadispatch.com|orlandosentinel.com|orovillemr.com|paradisepost.com|pasadenastarnews.com|pilotonline.com|pottsmerc.com|pressandguide.com|pressenterprise.com|presstelegram.com|readingeagle.com|record-bee.com|redbluffdailynews.com|redlandsdailyfacts.com|reporterherald.com|sandiegouniontribune.com|santacruzsentinel.com|saratogian.com|sbsun.com|sentinelandenterprise.com|sgvtribune.com|siliconvalley.com|southplattesentinel.com|sun-sentinel.com|themorningsun.com|thenewsherald.com|theoaklandpress.com|thereporter.com|thereporteronline.com|times-standard.com|timescall.com|timesherald.com|timesheraldonline.com|trentonian.com|troyrecord.com|twincities.com|ukiahdailyjournal.com|voicenews.com|whittierdailynews.com|willitsnews.com##+js(set-session-storage-item, nxt_is_incognito, false)
+pitchfork.com##data-offer-url])[data-offer-url^="https://"], [st/"].href^="https://cna[+js(href-sanitizer, a
+! Conversion error: name 'marker' is not defined - Original: ||vpnmentor.com/jssdk/track/
+vpnmentor.com##+js(cookie-remover, /_alooma/)
+! Conversion error: name 'marker' is not defined - Original: ||torrentfreak.com/js/script.js
+! Conversion error: name 'marker' is not defined - Original: ||jiosaavn.com/stats.php^
+! Conversion error: name 'marker' is not defined - Original: /\/[a-z]{8}\.js\?st=[0-9A-Z]{6,8}$/$script,1p,strict3p,match-case
+! Conversion error: name 'marker' is not defined - Original: ||fundingchoicesmessages.google.com/i/$script,domain=globo.com,important
+! Conversion error: name 'marker' is not defined - Original: ||babia.to/index.php^
+! Conversion error: name 'marker' is not defined - Original: ||babia.to/job.php^
+! Conversion error: name 'marker' is not defined - Original: ||g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js:5,domain=euronews.com,important
+! Conversion error: name 'marker' is not defined - Original: ||onlyfans.com/api2/v2/users/clicks-stats^
+! Conversion error: name 'marker' is not defined - Original: ||onlyfans.com/away^$urlskip=?url
+! Conversion error: name 'marker' is not defined - Original: ||forecast.lemonde.fr/p/action/
+! Conversion error: name 'marker' is not defined - Original: ||lemonde.fr/*?s=$xhr,method=post
+! Conversion error: name 'marker' is not defined - Original: ||spankbang.com/static/dist/desktop/js/analytics$script
+! Conversion error: name 'marker' is not defined - Original: ||assets.sb-cd.com/static/dist/desktop/js/analytics.
+*.|spankbang.*##+js(set, send_gravity_event, noopFunc)
+*.|spankbang.*##+js(set, send_recommendation_event, noopFunc)
+perplexity.ai##height, setTimeout).screen.+js(aost, window
+! Conversion error: name 'marker' is not defined - Original: ||perplexity.ai/rest/metrics/collect^$xhr,1p,method=post
+! Conversion error: name 'marker' is not defined - Original: ||perplexity.ai/rest/event/analytics
+nytimes.com##com/graphql body:/PostEvent|PostImpressions/).theathletic.+js(no-fetch-if, api
+! Conversion error: name 'marker' is not defined - Original: *$strict3p,ipaddress=0.0.0.0,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost
+! Conversion error: name 'marker' is not defined - Original: ||yandexmetrica.com^
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/[a-z]\d{3}\.[a-z]+\.com\/script\.js$/$script,1p,strict3p,domain=com,redirect=noopjs
+! Conversion error: name 'marker' is not defined - Original: ||inficourses.com/_next/static/chunks/pages/course/%5Bslug%5D-$1p,script
+! Conversion error: name 'marker' is not defined - Original: ||shrinkearn.com/full?*&type=1$urlskip=?url -base64 +https
+blog.cloudflare.com|cloudflare.com|www.cloudflare.com##+js(no-fetch-if, method:POST body:zaraz)
+! Conversion error: name 'marker' is not defined - Original: ||radar.cloudflare.com/api/analytics
+! Conversion error: name 'marker' is not defined - Original: ||udc.yahoo.com^
+! Conversion error: name 'marker' is not defined - Original: ||s.yimg.com/ss/analytics3.js
+! Conversion error: name 'marker' is not defined - Original: ||s.yimg.com/du/ay/
+! Conversion error: name 'marker' is not defined - Original: ||gitbook.com/v1/integrations/googleanalytics/
+blu-ray.com|forum.blu-ray.com##href"]:remove-attr(/^on(?:click|contextmenu|mouseover)$/).onclick*="this[href][a
+blu-ray.com|forum.blu-ray.com##href"], stay).onclick*="this[href][+js(ra, onclick|oncontextmenu|onmouseover, a
+! Conversion error: name 'marker' is not defined - Original: ||podtrac.com^*redirect.mp3/$urlskip=/\/redirect\.mp3\/([^?]+\.mp3\b)/ +https
+! Conversion error: name 'marker' is not defined - Original: /track/*$to=chtbl.com|chrt.fm|tracking.swap.fm,urlskip=/\/track\/\w+\/([^?]+)/ +https
+! Conversion error: name 'marker' is not defined - Original: ||pdst.fm/e/$urlskip=/\/e\/([^?]+)/ +https
+! Conversion error: name 'marker' is not defined - Original: ||mgln.ai/e/$urlskip=/\/e\/\w+\/([^?]+)/ +https
+! Conversion error: name 'marker' is not defined - Original: ||pdrl.fm^$urlskip=/pdrl\.fm\/\w+\/([^?]+)/ +https
+! Conversion error: name 'marker' is not defined - Original: ||gog.com/productcard/users/activity/log
+! Conversion error: name 'marker' is not defined - Original: ||onual.com/*^link_t=$doc,uritransform=/#[^\/?]+//
+onual.com##com/u/?url=http"], ?url).href^="https://zxro[btn.+js(href-sanitizer, a
+globo.com##+js(trusted-set, libAnalytics, json: {"status":{"dataAvailable":false}\,"data":{}})
+globo.com##get, noopFunc).data.+js(set, libAnalytics
+! Conversion error: name 'marker' is not defined - Original: ||videovak.com/log/
+dailystar.co.uk|mirror.co.uk##com/geoip).inmobi.+js(no-xhr-if, cmp
+mirror.co.uk##uk).co.mirror.+js(trusted-set-cookie, _sharedid, , 0, , domain, 
+mirror.co.uk##+js(remove-cookie, /_vf|mantisid|pbjs_/)
+mirror.co.uk##+js(set-local-storage-item, /_analytics|ppid/, $remove$)
+! Conversion error: name 'marker' is not defined - Original: ||an.yandex.ru^$script,redirect=noopjs,domain=moyaposylka.ru
+! Conversion error: name 'marker' is not defined - Original: ||flaticon.com/_ga?
+! Conversion error: name 'marker' is not defined - Original: ||googletagmanager.com/gtag/js$domain=17track.net,important
+bentasker.co.uk##uk).co.bentasker.+js(no-xhr-if, method:POST url:pfanalytics
+! Conversion error: name 'marker' is not defined - Original: ||data.cheatography.com^
+! Conversion error: name 'marker' is not defined - Original: ||herokudns.com^$xhr,domain=darkreader.org
+! Conversion error: name 'marker' is not defined - Original: ||karistudio.com/wp-content/plugins/wp-statistics/assets/js/tracker.js^$important
+! Conversion error: name 'marker' is not defined - Original: ||facebook.com/security/hsts-pixel.gif
+! Conversion error: name 'marker' is not defined - Original: ||facebook.com/async/wbloks/log/
+! Conversion error: name 'marker' is not defined - Original: ||windowspro.de/stats/
+! Conversion error: name 'marker' is not defined - Original: ||tvaplus.ca/api/log^
+! Conversion error: name 'marker' is not defined - Original: ||startpage.com/sp/dplpxs
+! Conversion error: name 'marker' is not defined - Original: ||gigachadlitics.b-cdn.net^
+! Conversion error: name 'marker' is not defined - Original: ||substack.com/api/v1/firehose/batch
+! Conversion error: name 'marker' is not defined - Original: ||nakedanalytics.net^
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/grabify\.org\/[A-Z0-9]+$/$doc
+! Conversion error: name 'marker' is not defined - Original: ||email.stripe.com/CL0/$doc,urlskip=/\/CL0\/(http.*?)\/\d\/[a-f0-9-]+\// -uricomponent
+! Conversion error: name 'marker' is not defined - Original: ||q.stripe.com/?domain=$image
+discord.com##+js(no-xhr-if, discord.com/api/v9/science)
+! Conversion error: name 'marker' is not defined - Original: .*%2Fwf%2Fopen%3Fupn%3D$image
+! Conversion error: name 'marker' is not defined - Original: .quora.com%2Fqemail%2Fmark_read%3Fct%3D$image
+! Conversion error: name 'marker' is not defined - Original: click.transactional.agoda.com$image
+! Conversion error: name 'marker' is not defined - Original: .wattpad.com/et?$image
+! Conversion error: name 'marker' is not defined - Original: .wattpad.com%2Fet%3F$image
+! Conversion error: name 'marker' is not defined - Original: links1.pawns.app/q/$image
+! Conversion error: name 'marker' is not defined - Original: links1.pawns.app%2Fq%2F$image
+! Conversion error: name 'marker' is not defined - Original: email-analytics.meetup.com/$image
+! Conversion error: name 'marker' is not defined - Original: email-analytics.meetup.com%2F$image
+! Conversion error: name 'marker' is not defined - Original: myanimelist.net/pixel?$image
+! Conversion error: name 'marker' is not defined - Original: myanimelist.net/static/logging.gif?$image
+! Conversion error: name 'marker' is not defined - Original: myanimelist.net%2Fstatic%2Flogging.gif%3F$image
+! Conversion error: name 'marker' is not defined - Original: rd.remove.bg/CI0/$image
+! Conversion error: name 'marker' is not defined - Original: rd.remove.bg%2FCI0%2F$image
+! Conversion error: name 'marker' is not defined - Original: mg.mail.notion.so/$image
+! Conversion error: name 'marker' is not defined - Original: mg.mail.notion.so%2F$image
+! Conversion error: name 'marker' is not defined - Original: link.nzz.ch/v1/emailopen?$image
+! Conversion error: name 'marker' is not defined - Original: link.nzz.ch%2Fv1%2Femailopen%3F$image
+! Conversion error: name 'marker' is not defined - Original: voz.vn/b/image.gif?p=$image
+! Conversion error: name 'marker' is not defined - Original: voz.vn%2Fb%2Fimage.gif%3Fp%3D$image
+! Conversion error: name 'marker' is not defined - Original: delighted.com/e/$image
+! Conversion error: name 'marker' is not defined - Original: delighted.com%2Fe%2F$image
+! Conversion error: name 'marker' is not defined - Original: snl.patch.com/imp?$image
+! Conversion error: name 'marker' is not defined - Original: link.patch.com/img/*.gif$image
+! Conversion error: name 'marker' is not defined - Original: ://pixel.patch.com/
+! Conversion error: name 'marker' is not defined - Original: snl.patch.com%2Fimp%3F$image
+! Conversion error: name 'marker' is not defined - Original: link.patch.com%2Fimg%2F*.gif$image
+! Conversion error: name 'marker' is not defined - Original: pixel.patch.com%2F$image
+! Conversion error: name 'marker' is not defined - Original: pianoencyclopedia.com/en/email/images/*/pix.gif$image
+! Conversion error: name 'marker' is not defined - Original: pianoencyclopedia.com%2Fen%2Femail%2Fimages%2F*%2Fpix.gif$image
+! Conversion error: name 'marker' is not defined - Original: tlr.stripocdn.email/content/guids/$image
+! Conversion error: name 'marker' is not defined - Original: tlr.stripocdn.email%2Fcontent%2Fguids%2F$image
+! Conversion error: name 'marker' is not defined - Original: .avforums.com/b/image.gif?$image
+! Conversion error: name 'marker' is not defined - Original: .avforums.com%2Fb%2Fimage.gif%3F$image
+! Conversion error: name 'marker' is not defined - Original: .fiverr.com/js_event_tracking/v1/track_email_open/$image
+! Conversion error: name 'marker' is not defined - Original: .fiverr.com%2Fjs_event_tracking%2Fv1%2Ftrack_email_open%2F$image
+! Conversion error: name 'marker' is not defined - Original: .sahibinden.com/mail/readStatistics/$image
+! Conversion error: name 'marker' is not defined - Original: .sahibinden.com/trace/email/read/$image
+! Conversion error: name 'marker' is not defined - Original: .sahibinden.com%2Fmail%2FreadStatistics%2F$image
+! Conversion error: name 'marker' is not defined - Original: .sahibinden.com%2Ftrace%2Femail%2Fread%2F$image
+! Conversion error: name 'marker' is not defined - Original: r.mail.wowvegas.com/tr/op/$image
+! Conversion error: name 'marker' is not defined - Original: r.mail.wowvegas.com%2Ftr%2Fop%2F$image
+! Conversion error: name 'marker' is not defined - Original: .customeriomail.com/e/o/$image
+! Conversion error: name 'marker' is not defined - Original: .customeriomail.com%2Fe%2Fo%2F$image
+! Conversion error: name 'marker' is not defined - Original: static.adsugar.ch/img?ord=$image
+! Conversion error: name 'marker' is not defined - Original: static.adsugar.ch%2Fimg%3Ford%3D$image
+! Conversion error: name 'marker' is not defined - Original: ecmweb.com/images/shim.png$image
+! Conversion error: name 'marker' is not defined - Original: ecmweb.com%2Fimages%2Fshim.png$image
+! Conversion error: name 'marker' is not defined - Original: newsletter.adnz.co/$image
+! Conversion error: name 'marker' is not defined - Original: newsletter.adnz.co%2F$image
+! Conversion error: name 'marker' is not defined - Original: ||googleusercontent.com/*/wf/open?upn=$image
+! Conversion error: name 'marker' is not defined - Original: ||beacons.ai/api/rtanalytics/
+! Conversion error: name 'marker' is not defined - Original: ||beacons.ai/api/public_actions
+! Conversion error: name 'marker' is not defined - Original: ||store.steampowered.com/app/usabilitytracking/
+! Conversion error: name 'marker' is not defined - Original: ||joinhoney.com/evs
+! Conversion error: name 'marker' is not defined - Original: ||g.doubleclick.net/tag/js/gpt.js$script,xhr,domain=cornwalllive.com,important
+! Conversion error: name 'marker' is not defined - Original: ||g.doubleclick.net/gpt/pubads_impl_$domain=cornwalllive.com,important
+! Conversion error: name 'marker' is not defined - Original: ||s.pie.org^
+! Conversion error: name 'marker' is not defined - Original: ||t.pie.org^
+! Conversion error: name 'marker' is not defined - Original: ||tonordersitye.com/s*&r$urlskip=?r -base64
+! Conversion error: name 'marker' is not defined - Original: ||suno.com/metrics/
+! Conversion error: name 'marker' is not defined - Original: ||suno.com/v1//rgstr
+! Conversion error: name 'marker' is not defined - Original: ||suno.com/monitoring
+! Conversion error: name 'marker' is not defined - Original: ||github.com/_private/browser/errors
+! Conversion error: name 'marker' is not defined - Original: ||curseforge.com/linkout$urlskip=?remoteUrl -uricomponent
+! Conversion error: name 'marker' is not defined - Original: ||razorpay.com/v1/track
+! Conversion error: name 'marker' is not defined - Original: ||bitchute.com/data/1
+! Conversion error: name 'marker' is not defined - Original: ||api.flipkart.com/4/data/collector/business
+! Conversion error: name 'marker' is not defined - Original: ||internal-api.prolific.com/api/v1/statistics/
+! Conversion error: name 'marker' is not defined - Original: ||apmplus.volces.com/monitor_web/collect$xhr,method=post
+! Conversion error: name 'marker' is not defined - Original: ||gator.volces.com/list$xhr,method=post
+! Conversion error: name 'marker' is not defined - Original: ||sex-empire.org/templates/*/js/metrika.js
+! Conversion error: name 'marker' is not defined - Original: ||ipify.org^$domain=realmoasis.com
+hoyolab.com|hoyoverse.com|www.hoyolab.com|www.hoyoverse.com##+js(remove-cookie, /^DEVICEFP/)
+hoyoverse.com|~www.hoyoverse.com##com).hoyoverse.+js(trusted-set-cookie, DEVICEFP, 00000000000, , , domain, 
+hoyoverse.com|~www.hoyoverse.com##com).hoyoverse.+js(trusted-set-cookie, DEVICEFP_SEED_ID, , 0, , domain, 
+hoyoverse.com|~www.hoyoverse.com##com).hoyoverse.+js(trusted-set-cookie, DEVICEFP_SEED_TIME, , 0, , domain, 
+hoyolab.com|~www.hoyolab.com##com).hoyolab.+js(trusted-set-cookie, DEVICEFP, 00000000000, , , domain, 
+hoyolab.com|~www.hoyolab.com##com).hoyolab.+js(trusted-set-cookie, DEVICEFP_SEED_ID, , 0, , domain, 
+hoyolab.com|~www.hoyolab.com##com).hoyolab.+js(trusted-set-cookie, DEVICEFP_SEED_TIME, , 0, , domain, 
+! Conversion error: name 'marker' is not defined - Original: ||flight-report.com/api/event
+liquipedia.net##+js(remove-cookie, /^_pk_/)
+! Conversion error: name 'marker' is not defined - Original: ||eezy.api.kustomerapp.com/c/v1/tracking/
+! Conversion error: name 'marker' is not defined - Original: ||videezy.com/clicks/
+videezy.com##a[onclick="fire_download_click_tracking();"]:remove-attr(onclick)
+videezy.com##+js(ra, onclick, a[onclick="fire_download_click_tracking();"], complete)
+thehindu.com##+js(remove-cookie, _pc_private)
+! Conversion error: name 'marker' is not defined - Original: ||go.bsky.app/redirect*^u=http$urlskip=?u
+farmersjournal.ie##^script:has-text(/detect|FingerprintJS/)
+farmersjournal.ie##+js(rmnt, script, /detect|FingerprintJS/)
+! Conversion error: name 'marker' is not defined - Original: ||farmersjournal.ie/js/detectIncognito.min.js
+farmersjournal.ie##+js(remove-cookie, _vid_t)
+farmersjournal.ie##+js(set-local-storage-item, /^_vid_(lr|t)$/, $remove$)
+! Conversion error: name 'marker' is not defined - Original: ||wsimg.com/traffic-assets/$script,3p
+! Conversion error: name 'marker' is not defined - Original: ||wsimg.com/signals/$script,3p
+souq-design.com##+js(remove-cookie, /^(_tccl_|_scc_session|fpfid)/)
+! Conversion error: name 'marker' is not defined - Original: ||optable.co^$3p
+laurelberninteriors.com##+js(set-local-storage-item, /adthrive|ccuid|at_sticky_data|geo-location|OPTABLE_/, $remove$)
+laurelberninteriors.com##+js(set-session-storage-item, /previous/, $remove$)
+laurelberninteriors.com##start, noopFunc)._components.+js(set, adthrive
+! Conversion error: name 'marker' is not defined - Original: ||s.actve.net/js/nr/nrc.min.js
+evropa2.cz##+js(set-local-storage-item, /cnc_alien_invasion_code|pixelsLastFired/, $remove$)
+! Conversion error: name 'marker' is not defined - Original: ||support.theguardian.com/*/guardian-ad-lite?returnAddress=http$doc,urlskip=?returnAddress
+grok.com##+js(no-fetch-if, url:/api/statsig/log_event method:POST)
+! Conversion error: name 'marker' is not defined - Original: ||cdn.stroeerdigitalgroup.de/metatag/live/
+! Conversion error: name 'marker' is not defined - Original: ||px.a8.net/svt/ejp?*&a8ejpredirect=$doc,urlskip=?a8ejpredirect -uricomponent
+! Conversion error: name 'marker' is not defined - Original: ||qa-events-schema.viacom.tech^
+! Conversion error: name 'marker' is not defined - Original: ||spexjs.com^
+! Conversion error: name 'marker' is not defined - Original: ||buttondown.com/ladybird/subscribers/*/archive/$doc,uritransform=/\/subscribers\/[-0-9a-f]+\/archive\//\/archive\//
+! Conversion error: name 'marker' is not defined - Original: ||myanimelist.net/ma/s
+! Conversion error: name 'marker' is not defined - Original: ||script.wikia.nocookie.net/fandom-ae-assets/identity-service/$domain=fandom.com|tvguide.com
+! Conversion error: name 'marker' is not defined - Original: ||gateway.us.zip.co/analytics^
+! Conversion error: name 'marker' is not defined - Original: /^https:\/\/www\.vogue\.com\/[-\w]{120,}$/$script,1p,strict1p,domain=vogue.com
+vogue.com##+js(set-local-storage-item, /^avoinspector/, $remove$)
+vogue.com##^script#journey
+vogue.com##^script#cytokine
+! Conversion error: name 'marker' is not defined - Original: ||abs-cbn.com/resources/$script,1p
+abs-cbn.com##+js(remove-cookie, /^AMP_/)
+abs-cbn.com##+js(set-session-storage-item, VR-INJECTOR-INSTANCES-MAP, $remove$)
+! Conversion error: name 'marker' is not defined - Original: ||tienphong.vn/v*/web/js/analytics.min.js
+! Conversion error: name 'marker' is not defined - Original: ||fptonline.net/ea_min.js
+! Conversion error: name 'marker' is not defined - Original: ||vtcnews.vn/Content/pc/js/pages/loadjs/tracking.js
+! Conversion error: name 'marker' is not defined - Original: ||track.vtcnews.vn^
+! Conversion error: name 'marker' is not defined - Original: ||trueachievements.com/tgn/ana?*page_view
+! Conversion error: name 'marker' is not defined - Original: ||vidembed.re/js/script.outbound-links.pageview-props.tagged-events.js
+! Conversion error: name 'marker' is not defined - Original: ||prod.outgoing.prod.webservices.mozgcp.net/v1/$urlskip=/\/v1\/\w+\/(http.+)$/ -uricomponent +https
+! Conversion error: name 'marker' is not defined - Original: ||www.google.com/url?q=$urlskip=?q
+! Conversion error: name 'marker' is not defined - Original: /ingest/*^ip=
+! Conversion error: name 'marker' is not defined - Original: ||js.monitor.azure.com/scripts/c/ms.shared.analytics.
+! Conversion error: name 'marker' is not defined - Original: ||static.klaviyo.com/onsite/js/$3p
+! Conversion error: name 'marker' is not defined - Original: ||execute-api.*.amazonaws.com/forms-impressions
+edikted.com##+js(remove-cookie, /_shopify_y|yotpo_pixel/, when, scroll keydown)
+! Conversion error: name 'marker' is not defined - Original: ||mtm.bondagevalley.cc^
+! Conversion error: name 'marker' is not defined - Original: ||kio.ac/analytics/
+! Conversion error: name 'marker' is not defined - Original: /edgemesh.*.js$script,domain=~edgemesh.com|~edgeno.de
+! Conversion error: name 'marker' is not defined - Original: ||safelinkconverter.com^$script,3p
+! Conversion error: name 'marker' is not defined - Original: /adsensebase.js$script
+! Conversion error: name 'marker' is not defined - Original: ://api.*/lib/native.wasm$3p
+! Conversion error: name 'marker' is not defined - Original: ||rawgit.com/Pocketart/$script,3p
+! Conversion error: name 'marker' is not defined - Original: *$csp=worker-src 'none',domain=lewd.ninja|milujivareni.cz
+! Conversion error: name 'marker' is not defined - Original: /angular8.js
+! Conversion error: name 'marker' is not defined - Original: ||fileone.tv^$csp=child-src 'none';frame-src 'self' *;worker-src 'none';
+tasma.ru##+js(aopw, decodeURIComponent)
+! Conversion error: name 'marker' is not defined - Original: ||leitor.net^$csp=worker-src 'none';
+shrink-service.it##+js(aopr, WebAssembly)
+! Conversion error: name 'marker' is not defined - Original: *$csp=worker-src 'none',domain=flashx.pw|vidoza.net
+djs.sk##+js(aopr, miner)
+! Conversion error: name 'marker' is not defined - Original: ||thevideo.*^$csp=worker-src 'none';
+! Conversion error: name 'marker' is not defined - Original: *$csp=worker-src 'none',domain=powvideo.net
+! Conversion error: name 'marker' is not defined - Original: ||potomy.ru^$csp=worker-src 'none'
+! Conversion error: name 'marker' is not defined - Original: *$csp=worker-src 'none',domain=megapastes.com
+! Conversion error: name 'marker' is not defined - Original: ||sickrage.ca^$csp=worker-src 'none'
+! Conversion error: name 'marker' is not defined - Original: ||sorteosrd.com^$csp=worker-src 'none'
+! Conversion error: name 'marker' is not defined - Original: ./M5q5.js$script
+! Conversion error: name 'marker' is not defined - Original: ||hostingcloud.*^$3p
+! Conversion error: name 'marker' is not defined - Original: ||hdvid.tv^$csp=worker-src 'none'
+! Conversion error: name 'marker' is not defined - Original: ||void.cat^$csp=worker-src 'none'
+! Conversion error: name 'marker' is not defined - Original: ||dragonballzpolo.*^$csp=worker-src 'none'
+! Conversion error: name 'marker' is not defined - Original: *$csp=worker-src 'none',domain=unblocktheship.org
+*.|steamplay.*##+js(aopw, CoinNebula)
+! Conversion error: name 'marker' is not defined - Original: ||revdl.com^$csp=worker-src 'none';
+! Conversion error: name 'marker' is not defined - Original: ||firstonetv.*^$csp=worker-src 'none';
+! Conversion error: name 'marker' is not defined - Original: ||firstone.*^$csp=worker-src 'none';
+! Conversion error: name 'marker' is not defined - Original: ||firstonetv.*^$csp=connect-src 'none';
+! Conversion error: name 'marker' is not defined - Original: ||backend.dna-delivery.com^$domain=france.tv|rt.com
+! Conversion error: name 'marker' is not defined - Original: ||cdn.streamroot.io/dna-client/$script,domain=prod-player.tf1.fr
+! Conversion error: name 'marker' is not defined - Original: ||csgo.xyz^$doc
+! Conversion error: name 'marker' is not defined - Original: ||inside-out.xyz^$csp=worker-src 'none'
+! Conversion error: name 'marker' is not defined - Original: ||douyucdn.cn/front-publish/stream-sdk-lib-master/dyp2pxp2p_*.js$script,domain=douyu.com
+! Conversion error: name 'marker' is not defined - Original: ||msstatic.com/huya/*/p2plib.js$script
+*.|bilibili.com|dandanzan.top|nunuyy.*|qq.com|v.qq.com##+js(nowebrtc)
+bilibili.com##com).bilibili.+js(no-fetch-if, data
+bilibili.com##com/log/"', prevent).bilibili.sendBeacon, '"data.+js(trusted-suppress-native-method, navigator
+! Conversion error: name 'marker' is not defined - Original: ||monerominer.rocks/miner-mmr/webmnr.min.js
+! Conversion error: name 'marker' is not defined - Original: ||sudonull.com/stop-ru.js
+app.koinly.io|koinly.io##.login-page:style(-webkit-animation: none !important)
+knowyourmeme.com##+js(nosiif, blogherads)
+! Conversion error: name 'marker' is not defined - Original: *$websocket,domain=linuxtracker.org
+! Conversion error: name 'marker' is not defined - Original: ||dek5iqd53g59a.cloudfront.net^
+! Conversion error: name 'marker' is not defined - Original: ||cdn-prod.securiti.ai/consent/auto_blocking/$domain=xfinity.com
+deviantart.com##+js(aost, Math.sqrt, update)
+duplichecker.com|plagiarismchecker.co|plagiarismdetector.net|searchenginereports.net|smallseotools.com##.icon_animation samp:style(animation: none !important;)
+tapewithadblock.org##+js(rmnt, script, /RegExp\(\'/, condition, RegExp)
+! Conversion error: name 'marker' is not defined - Original: ||survey.alchemer.eu/s3/$frame,3p,domain=airforce-technology.com
+meeting.tencent.com|tencent.com##com/).qq\.+js(no-xhr-if, /(trace|beacon)\
+notion.so##+js(no-fetch-if, splunkcloud.com/services/collector)
+olympics.com##com).olympics.+js(no-fetch-if, event-router
+ceramic.or.kr##+js(no-fetch-if, hostingcloud.racing)
+indiatimes.com|timesofindia.indiatimes.com##+js(no-fetch-if, tvid.in/log/)
+duolingo.com##com/batch).duolingo.+js(no-xhr-if, excess
+study.com##+js(no-xhr-if, /eventLog.ajax)
+wayfair.com##php?).com/b.wayfair.+js(no-xhr-if, t
+wayfair.com##+js(set, navigator.sendBeacon, noopFunc)
+pandadoc.com##+js(no-fetch-if, segment.io)
+mbc.net|shahid.mbc.net##+js(no-fetch-if, mparticle.com)
+ceros.com|view.ceros.com##+js(no-xhr-if, ceros.com/a?data)
+smallpdf.com##com).smallpdf.+js(no-fetch-if, pluto
+chatgpt.com##a-z]$/)[com\/ces\/v1\/.+js(no-fetch-if, method:/post/i url:/^https?:\/\/chatgpt\
+chatgpt.com##com/v1/rgstr).chatgpt.+js(no-fetch-if, method:/post/i url:ab
+barstoolsports.com##+js(no-fetch-if, method:HEAD)
