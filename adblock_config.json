@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://easylist.to/easylist/easylist.txt",
+    "https://easylist.to/easylist/easyprivacy.txt",
+    "https://secure.fanboy.co.nz/fanboy-annoyance.txt"
+  ],
+  "cache_dir": "filter_cache",
+  "output_dir": "optimized_lists",
+  "max_age_hours": 24,
+  "conversion": {
+    "optimize_css": true,
+    "remove_comments": true,
+    "remove_duplicates": true
+  },
+  "parallel_processing": true,
+  "max_download_workers": 8,
+  "user_agent": "uBlockSuper/1.0 (GitHub Actions)"
+}
