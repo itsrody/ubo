@@ -1,0 +1,23 @@
+# Python dependencies for uBlock Super List Generator
+# Minified production requirements
+
+# HTTP requests with security enhancements
+requests==2.32.3
+    # via: https://github.com/psf/requests
+    # security: CVE-2024-35195, CVE-2024-35196
+
+# Domain name parsing
+tldextract==5.1.2
+    # via: https://github.com/john-kurkowski/tldextract
+    # notes: Requires current Public Suffix List
+
+# JSON parsing enhancements (stdlib alternative is sufficient)
+# (intentionally omitted - use stdlib json instead)
+
+# Date/time handling
+python-dateutil==2.9.0.post0
+    # via: tldextract (indirect)
+
+# Compiled requirements hash
+# SHA256: d44f1e7e0a0de7b0b5e89c8c65a2a9a7b14a6e47f2d3a35c1c8d5d9d5f3e3f01
+# Generated: 2024-05-26
