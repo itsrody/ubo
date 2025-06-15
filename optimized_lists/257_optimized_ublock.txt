@@ -616,9 +616,7 @@ howtoremove.guide###gray_de
 ! Conversion error: name 'marker' is not defined - Original: ||zxcprogs.shop^$all
 ! Conversion error: name 'marker' is not defined - Original: ||fusionhacks.cc^$document
 ! Conversion error: name 'marker' is not defined - Original: ||phantomcorestudios.net^$document
-! Conversion error: name 'marker' is not defined - Original: ||lumennex.pro^$all
 ! Conversion error: name 'marker' is not defined - Original: ||aimshare.pro^$all
-! Conversion error: name 'marker' is not defined - Original: ||lightsense.top^$all
 ! Conversion error: name 'marker' is not defined - Original: ||downloadsuite.pro^$all
 ! Conversion error: name 'marker' is not defined - Original: ||dropcheats.net^$document
 ! Conversion error: name 'marker' is not defined - Original: ||cloud-pack.org^$document
@@ -4148,6 +4146,7 @@ uploadfox.net###ad-gs-05
 ! Conversion error: name 'marker' is not defined - Original: ||hotdebrid.com^$document
 ! Conversion error: name 'marker' is not defined - Original: ||maxdebrid.com^$document
 ! Conversion error: name 'marker' is not defined - Original: ||anydebrid.com^$document
+! Conversion error: name 'marker' is not defined - Original: ||okdebrid.com^$document
 ! Conversion error: name 'marker' is not defined - Original: ||semrushmall.com^$all
 ! Conversion error: name 'marker' is not defined - Original: ||grass-io.$all,to=cc|vip|~getgrass.io
 ! Conversion error: name 'marker' is not defined - Original: ||inmotionhosting.com/~myapp/grass_air/$document
@@ -4299,4 +4298,3 @@ uploadfox.net###ad-gs-05
 ! Conversion error: name 'marker' is not defined - Original: .com/redirect-zone/$document,popup
 ! Conversion error: name 'marker' is not defined - Original: ||figa.beauty^$all
 ! Conversion error: name 'marker' is not defined - Original: ||lonely.beauty^$all
-! Conversion error: name 'marker' is not defined - Original: ||adwareremoval.info^$all

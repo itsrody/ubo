@@ -3668,7 +3668,6 @@ uraaka-joshi.com##.grid-cell-non-hover
 autos.goo.ne.jp|goo.ne.jp##.cont_ad
 goo.ne.jp|weather.goo.ne.jp##style*="min-width:320px;"][style^="min-height:calc"][div
 healthshots.com##.footerstickyad
-tryboobs.com###spotsTop
 svethuawei.eu###mobile-pop-up-ad
 pornone.com##div[class^="flex-initial"]
 inter-edu.com##div[class^="bnr"]
@@ -3922,7 +3921,7 @@ utaten.com##.threeToOneRectangleBanner
 getnavi.jp###dopa_sp_article_underarticle
 getnavi.jp##style="text-align: center;"][class="for-sp"][div
 getnavi.jp##style^="text-align:center;"][class="for-sp"][div
-fc2.com|shanxivideo.com|video.fc2.com##.ad_area_bottom
+fc2.com|video.fc2.com##.ad_area_bottom
 enuchi.jp|internetcom.jp##style="height:96px;vertical-align:middle;"][related-li.
 internetcom.jp##ddd; margin-top:-7px; padding-bottom:5px;"]#style$="border-bottom: 1px solid [span8 > div.
 asajo.jp##.ad-area-upper

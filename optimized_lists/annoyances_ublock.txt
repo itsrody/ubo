@@ -3465,3 +3465,6 @@ bangbros.com##+js(set-cookie, iAgree, 1)
 ingesantoso.wordpress.com|wordpress.com##.marketing-bar
 ingesantoso.wordpress.com|wordpress.com##body:remove-class(has-marketing-bar)
 duckduckgo.com##+js(trusted-set-local-storage-item, adblockNotice, '{"dismissed":true,"impressionCount":1}')
+tmnascommunity.eu##+js(set-cookie, firebox_3330, 1)
+ofertecatalog.ro##+js(rmnt, script, /contextmenu|oncopy/)
+ofertecatalog.ro##+js(ra, onselectstart, , stay)
